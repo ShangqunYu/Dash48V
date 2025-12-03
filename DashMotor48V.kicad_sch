@@ -11362,6 +11362,12 @@
 		(uuid "d61fc70d-2b86-4050-83d7-078a4a2760b5")
 	)
 	(junction
+		(at 490.22 72.39)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "01e2c430-9097-41d4-9dd3-74e91bf1fa7d")
+	)
+	(junction
 		(at 422.91 44.45)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -11372,24 +11378,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "05192051-9da0-4bd6-ae2c-719bfc641220")
-	)
-	(junction
-		(at 400.05 110.49)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "055e5bf7-49b3-4d39-a776-2047d703306e")
-	)
-	(junction
-		(at 441.96 72.39)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "06273b74-17c7-4eb2-a4b5-13561a4da355")
-	)
-	(junction
-		(at 447.04 72.39)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "08a19a77-6936-46c7-b371-74bd5d08cc8e")
 	)
 	(junction
 		(at 485.14 97.79)
@@ -11422,16 +11410,16 @@
 		(uuid "0fa91ec7-8c06-497a-b677-ace9d9e46ee8")
 	)
 	(junction
-		(at 440.69 142.24)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "1050464d-c51a-4045-9e08-37f391ff9915")
-	)
-	(junction
 		(at 499.11 44.45)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "12a86fd6-e059-4afc-98d6-c7d686dc7ff0")
+	)
+	(junction
+		(at 444.5 110.49)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1c98d553-ee2a-4985-a69e-4cca18232ab0")
 	)
 	(junction
 		(at 118.11 163.83)
@@ -11458,16 +11446,34 @@
 		(uuid "20bdf011-20fc-4858-93d2-1e4cd1e7864d")
 	)
 	(junction
+		(at 447.04 110.49)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "222f82e9-8b14-429e-b9bb-ad11b74d0127")
+	)
+	(junction
 		(at 445.77 44.45)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "25f9d68d-6acd-4476-8a5d-664556ec6fae")
 	)
 	(junction
+		(at 441.96 72.39)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2734cbc6-7cd4-46df-9bc8-20e64eaf8337")
+	)
+	(junction
 		(at 96.52 81.28)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "2c97a131-f664-47b0-90cf-93542ef393eb")
+	)
+	(junction
+		(at 405.13 72.39)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2f004881-a6a7-42ca-9cf4-f2ffec015688")
 	)
 	(junction
 		(at 85.09 83.82)
@@ -11482,10 +11488,10 @@
 		(uuid "351c638e-c474-41e6-a5dc-65a43d6efc52")
 	)
 	(junction
-		(at 487.68 110.49)
+		(at 487.68 72.39)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "35b2b655-12f2-4cd4-80ac-27a5f6a32cae")
+		(uuid "35bc867a-641e-4359-bc7c-7d7818aac728")
 	)
 	(junction
 		(at 430.53 52.07)
@@ -11506,12 +11512,6 @@
 		(uuid "3b24b4e4-0f9b-4774-a756-591a546f4053")
 	)
 	(junction
-		(at 402.59 72.39)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "3ca3a314-e5b1-43d0-ad91-2a66c8846b97")
-	)
-	(junction
 		(at 264.16 254)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -11522,12 +11522,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "3ecfd1b2-a027-40c1-869e-34684b3d3768")
-	)
-	(junction
-		(at 441.96 135.89)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "409e8dcb-0eca-42b8-98cd-ccd7b2a694a8")
 	)
 	(junction
 		(at 422.91 52.07)
@@ -11542,16 +11536,22 @@
 		(uuid "44119c99-69e8-4fab-8db6-e9be6e179c17")
 	)
 	(junction
+		(at 397.51 72.39)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "44c91597-4352-46d8-a32a-b2a3ce389bb5")
+	)
+	(junction
+		(at 441.96 135.89)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "47175ab5-16a3-465f-a693-489c72d334c3")
+	)
+	(junction
 		(at 397.51 135.89)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "48d9c5d5-f5c4-4927-a825-ff7beac7c542")
-	)
-	(junction
-		(at 402.59 110.49)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "4a707cdb-e95c-4460-b7e2-4dd3924bf612")
 	)
 	(junction
 		(at 295.91 341.63)
@@ -11560,10 +11560,10 @@
 		(uuid "4ab0b514-89a2-4841-9c62-5e14802a7b0f")
 	)
 	(junction
-		(at 485.14 72.39)
+		(at 402.59 72.39)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "4af2fb86-b494-4052-a8fd-1e7b2d9e7cda")
+		(uuid "4b1630a4-2fb5-427e-92a7-ac88da6f3574")
 	)
 	(junction
 		(at 468.63 52.07)
@@ -11576,6 +11576,18 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4d094d80-85f7-4a0b-99a8-c4bb193e5f8d")
+	)
+	(junction
+		(at 400.05 110.49)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4d3e4daa-96ed-4ef3-9633-0f6a491e3d0e")
+	)
+	(junction
+		(at 441.96 161.29)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4f0dee95-9472-40d5-8d81-09a444a71a34")
 	)
 	(junction
 		(at 499.11 52.07)
@@ -11620,12 +11632,6 @@
 		(uuid "58a84390-dc92-4eec-9de4-288dae456b77")
 	)
 	(junction
-		(at 397.51 72.39)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "5905e2af-866d-422c-b0c8-ecc1d1f6faee")
-	)
-	(junction
 		(at 250.19 340.36)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -11638,28 +11644,22 @@
 		(uuid "5bd8c7bf-8c92-44a2-aa7d-a8ff015d6fe7")
 	)
 	(junction
-		(at 440.69 161.29)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "5d0d2ec7-48fe-4f3f-ac50-9d8530f0cfc2")
-	)
-	(junction
 		(at 415.29 52.07)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "60d435d4-09d3-49f5-b796-06c870cc531c")
 	)
 	(junction
-		(at 482.6 72.39)
+		(at 487.68 110.49)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "659fa67d-7a30-4d12-ad10-0f865787a5af")
+		(uuid "696a4887-e95c-4932-bec0-095ac4f24d19")
 	)
 	(junction
-		(at 447.04 110.49)
+		(at 441.96 142.24)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "6b0dfa77-6a80-4686-b352-6f6c6bf87f2b")
+		(uuid "6db0a830-caf3-4145-806b-496bec5ed68d")
 	)
 	(junction
 		(at 63.5 237.49)
@@ -11674,22 +11674,16 @@
 		(uuid "701efcfb-c5bc-4b51-b792-3bde1c5d8774")
 	)
 	(junction
-		(at 439.42 72.39)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "7245e97a-e9d5-42c5-9679-34cba3fe1d00")
-	)
-	(junction
-		(at 440.69 135.89)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "7439e178-1eb1-4257-bb0a-4781f3fdcbb2")
-	)
-	(junction
 		(at 407.67 44.45)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "777cd0bb-3bfe-42a6-b3f4-f4571ca346a0")
+	)
+	(junction
+		(at 449.58 72.39)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7800a643-64ca-4c8d-af39-0ee24eda590a")
 	)
 	(junction
 		(at 146.05 299.72)
@@ -11758,10 +11752,10 @@
 		(uuid "8d0e107d-d8c9-437b-8ca4-8b1078be83cf")
 	)
 	(junction
-		(at 405.13 72.39)
+		(at 490.22 110.49)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "8f09362c-066c-4683-8e0b-4be9d122463b")
+		(uuid "9228be29-bffa-4975-8c4d-12bc2e5786a4")
 	)
 	(junction
 		(at 397.51 142.24)
@@ -11800,12 +11794,6 @@
 		(uuid "9c95fec8-8a3c-4488-ae18-c0418d99a222")
 	)
 	(junction
-		(at 444.5 110.49)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "a1e522c8-d37b-4319-add5-295d1e409767")
-	)
-	(junction
 		(at 341.63 156.21)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -11818,22 +11806,28 @@
 		(uuid "a5fb8ab8-f32e-481f-bf9f-8feb17f5a099")
 	)
 	(junction
+		(at 400.05 72.39)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a63ea347-62fb-478e-acf2-99826241af7b")
+	)
+	(junction
 		(at 438.15 52.07)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "aac934a8-f2ab-4f0a-a557-9362c090f922")
 	)
 	(junction
-		(at 487.68 72.39)
+		(at 402.59 110.49)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "adaa1065-b185-4805-8099-5719c2b40f90")
+		(uuid "b297ce0d-644f-4e93-9823-f69a003e908a")
 	)
 	(junction
-		(at 400.05 72.39)
+		(at 447.04 72.39)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "b444b5a9-e743-487a-82cb-84e02a9635d3")
+		(uuid "b4a2ae3b-ec44-4c22-9e39-7ae0fb5d1861")
 	)
 	(junction
 		(at 50.8 304.8)
@@ -11848,16 +11842,16 @@
 		(uuid "bb6f7c18-1483-4528-bbe3-790ac401a31f")
 	)
 	(junction
+		(at 482.6 72.39)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "bcd6e69f-9d47-4e2f-a5c0-bdbcf256bce5")
+	)
+	(junction
 		(at 270.51 317.5)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "be169576-3a31-44a1-832f-1935cd1c4e9d")
-	)
-	(junction
-		(at 490.22 110.49)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "c20f89a8-df70-47fa-ab0d-5702ea87f147")
 	)
 	(junction
 		(at 485.14 110.49)
@@ -11884,16 +11878,22 @@
 		(uuid "c94179b1-56de-4eb6-8541-8c28812f4a4b")
 	)
 	(junction
-		(at 490.22 72.39)
+		(at 485.14 72.39)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "cb6f7fb1-ea63-47c5-acca-1dbab161c790")
+		(uuid "ced67a1a-9322-483d-9d93-489f1a14e71e")
 	)
 	(junction
 		(at 441.96 104.14)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "cf2ddf02-8628-4ac7-a844-6faff136b4bb")
+	)
+	(junction
+		(at 439.42 72.39)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d062ae5a-b160-4922-8c5d-2086fc1f9708")
 	)
 	(junction
 		(at 102.87 171.45)
@@ -11972,12 +11972,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e4ddce83-0046-4b52-9961-2711def45628")
-	)
-	(junction
-		(at 449.58 72.39)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "ed793dfc-ca83-4a48-8a98-4218081d5110")
 	)
 	(junction
 		(at 151.13 171.45)
@@ -12307,13 +12301,23 @@
 	)
 	(wire
 		(pts
-			(xy 439.42 135.89) (xy 440.69 135.89)
+			(xy 439.42 135.89) (xy 441.96 135.89)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "0b5dc878-eeff-4b06-85bc-2352a20b8eac")
+	)
+	(wire
+		(pts
+			(xy 397.51 72.39) (xy 400.05 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0b919be1-a553-42fa-be52-5780d4633187")
 	)
 	(wire
 		(pts
@@ -12434,16 +12438,6 @@
 			(type default)
 		)
 		(uuid "15142afa-3730-49ac-a773-6e96bd1a4c65")
-	)
-	(wire
-		(pts
-			(xy 444.5 110.49) (xy 447.04 110.49)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1593b32e-4939-49ff-a83f-fa6b3dce66ee")
 	)
 	(wire
 		(pts
@@ -12697,6 +12691,16 @@
 	)
 	(wire
 		(pts
+			(xy 490.22 110.49) (xy 492.76 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2691b748-f963-4e63-a4fe-87dd3d8b2662")
+	)
+	(wire
+		(pts
 			(xy 474.98 254) (xy 474.98 261.62)
 		)
 		(stroke
@@ -12704,16 +12708,6 @@
 			(type default)
 		)
 		(uuid "26bb4588-1336-4e70-9d63-c40cde25838d")
-	)
-	(wire
-		(pts
-			(xy 440.69 161.29) (xy 485.14 161.29)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "26e1be2c-e695-4443-8e1e-aa4c248a20b5")
 	)
 	(wire
 		(pts
@@ -12787,7 +12781,7 @@
 	)
 	(wire
 		(pts
-			(xy 429.26 142.24) (xy 440.69 142.24)
+			(xy 429.26 142.24) (xy 441.96 142.24)
 		)
 		(stroke
 			(width 0)
@@ -12814,16 +12808,6 @@
 			(type default)
 		)
 		(uuid "2d686b6d-1972-42b4-8ad4-85316904960a")
-	)
-	(wire
-		(pts
-			(xy 394.97 72.39) (xy 397.51 72.39)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2e92a3eb-d832-4985-9f29-fad8e2b3b2e1")
 	)
 	(wire
 		(pts
@@ -12854,16 +12838,6 @@
 			(type default)
 		)
 		(uuid "2f1e345b-5ed4-45b2-96f6-ff63cd0975d9")
-	)
-	(wire
-		(pts
-			(xy 490.22 110.49) (xy 492.76 110.49)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2f52688d-3e2f-4045-927e-b952b7e516db")
 	)
 	(wire
 		(pts
@@ -12997,6 +12971,16 @@
 	)
 	(wire
 		(pts
+			(xy 444.5 110.49) (xy 447.04 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3c6b4a11-517b-48af-a276-9a74fe7d51e5")
+	)
+	(wire
+		(pts
 			(xy 264.16 267.97) (xy 264.16 274.32)
 		)
 		(stroke
@@ -13004,6 +12988,16 @@
 			(type default)
 		)
 		(uuid "3d67dd6b-d18d-4738-9e46-82ed7c33d64c")
+	)
+	(wire
+		(pts
+			(xy 441.96 161.29) (xy 485.14 161.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3d91326b-f5a7-4e7c-a915-ad432d511690")
 	)
 	(wire
 		(pts
@@ -13044,6 +13038,16 @@
 			(type default)
 		)
 		(uuid "419b89ae-ec8f-4a44-8f6b-2c7b3e7b44e5")
+	)
+	(wire
+		(pts
+			(xy 441.96 135.89) (xy 444.5 135.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "41fe9432-f9f0-4614-b8b3-57a948f5cd66")
 	)
 	(wire
 		(pts
@@ -13177,6 +13181,16 @@
 	)
 	(wire
 		(pts
+			(xy 402.59 72.39) (xy 405.13 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4bb45c45-2c07-48c4-83da-d569cddf5a6c")
+	)
+	(wire
+		(pts
 			(xy 464.82 251.46) (xy 474.98 251.46)
 		)
 		(stroke
@@ -13217,16 +13231,6 @@
 	)
 	(wire
 		(pts
-			(xy 439.42 72.39) (xy 441.96 72.39)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4ef7e13e-8f8d-453c-8e1a-484ccd96e69d")
-	)
-	(wire
-		(pts
 			(xy 397.51 104.14) (xy 411.48 104.14)
 		)
 		(stroke
@@ -13254,6 +13258,16 @@
 			(type default)
 		)
 		(uuid "4f71d647-601f-4dd5-8214-9580cd4ee7a6")
+	)
+	(wire
+		(pts
+			(xy 449.58 72.39) (xy 482.6 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5161e938-3b39-4e60-b535-b5f96413daae")
 	)
 	(wire
 		(pts
@@ -13337,13 +13351,13 @@
 	)
 	(wire
 		(pts
-			(xy 487.68 110.49) (xy 490.22 110.49)
+			(xy 487.68 72.39) (xy 490.22 72.39)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "55ae7c96-fab8-48c1-ba44-044e866ef27f")
+		(uuid "55a28245-752a-4ef0-8683-6d2c43d2f727")
 	)
 	(wire
 		(pts
@@ -13354,6 +13368,16 @@
 			(type default)
 		)
 		(uuid "55e00ed3-fbac-40c6-8c53-b646b2347bf9")
+	)
+	(wire
+		(pts
+			(xy 439.42 72.39) (xy 441.96 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "56420b63-367e-4ef5-bf96-29ca35b0692d")
 	)
 	(wire
 		(pts
@@ -13437,7 +13461,7 @@
 	)
 	(wire
 		(pts
-			(xy 402.59 110.49) (xy 405.13 110.49)
+			(xy 397.51 110.49) (xy 400.05 110.49)
 		)
 		(stroke
 			(width 0)
@@ -13487,6 +13511,16 @@
 	)
 	(wire
 		(pts
+			(xy 447.04 72.39) (xy 449.58 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5e733c9e-915f-420c-9dac-f088b6120e2b")
+	)
+	(wire
+		(pts
 			(xy 58.42 237.49) (xy 63.5 237.49)
 		)
 		(stroke
@@ -13494,16 +13528,6 @@
 			(type default)
 		)
 		(uuid "5f003f73-1dfa-4732-93b3-2010f3c916b5")
-	)
-	(wire
-		(pts
-			(xy 405.13 72.39) (xy 439.42 72.39)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5f384ae7-c660-46a5-aa62-5ff614484587")
 	)
 	(wire
 		(pts
@@ -13567,16 +13591,6 @@
 	)
 	(wire
 		(pts
-			(xy 400.05 110.49) (xy 402.59 110.49)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "63e5f0ec-70a2-455a-a763-528058acd6ed")
-	)
-	(wire
-		(pts
 			(xy 485.14 104.14) (xy 499.11 104.14)
 		)
 		(stroke
@@ -13614,16 +13628,6 @@
 			(type default)
 		)
 		(uuid "64ee4436-12da-4043-8c24-3a294a5b8e81")
-	)
-	(wire
-		(pts
-			(xy 447.04 72.39) (xy 449.58 72.39)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "65d25410-119f-46e2-91aa-5ccac0354321")
 	)
 	(wire
 		(pts
@@ -13717,6 +13721,16 @@
 	)
 	(wire
 		(pts
+			(xy 482.6 72.39) (xy 485.14 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6d7b0320-f9f8-4b1d-b3c0-c9341b34a284")
+	)
+	(wire
+		(pts
 			(xy 185.42 309.88) (xy 177.8 309.88)
 		)
 		(stroke
@@ -13747,7 +13761,7 @@
 	)
 	(wire
 		(pts
-			(xy 402.59 72.39) (xy 405.13 72.39)
+			(xy 394.97 72.39) (xy 397.51 72.39)
 		)
 		(stroke
 			(width 0)
@@ -13817,16 +13831,6 @@
 	)
 	(wire
 		(pts
-			(xy 449.58 72.39) (xy 482.6 72.39)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "72ca3162-c5d7-4df4-af2b-8f969b1539a7")
-	)
-	(wire
-		(pts
 			(xy 247.65 173.99) (xy 266.7 173.99)
 		)
 		(stroke
@@ -13874,16 +13878,6 @@
 			(type default)
 		)
 		(uuid "7495484d-0681-442e-91f8-9ba7e97add22")
-	)
-	(wire
-		(pts
-			(xy 444.5 72.39) (xy 447.04 72.39)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7499da07-9d0b-45b3-89e9-4c830db82795")
 	)
 	(wire
 		(pts
@@ -13984,6 +13978,16 @@
 			(type default)
 		)
 		(uuid "7a53f95b-0013-4994-95a6-494151a53199")
+	)
+	(wire
+		(pts
+			(xy 402.59 110.49) (xy 405.13 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7c018d33-c7fa-4d0b-9c72-beaa6afeffce")
 	)
 	(wire
 		(pts
@@ -14117,7 +14121,7 @@
 	)
 	(wire
 		(pts
-			(xy 440.69 163.83) (xy 440.69 161.29)
+			(xy 441.96 163.83) (xy 441.96 161.29)
 		)
 		(stroke
 			(width 0)
@@ -14194,16 +14198,6 @@
 			(type default)
 		)
 		(uuid "90273223-4419-44ac-9367-721a08e5860e")
-	)
-	(wire
-		(pts
-			(xy 487.68 72.39) (xy 490.22 72.39)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "90305be2-f5da-44d3-a2e6-8e45d0341ee0")
 	)
 	(wire
 		(pts
@@ -14417,16 +14411,6 @@
 	)
 	(wire
 		(pts
-			(xy 441.96 135.89) (xy 444.5 135.89)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a01c6f5c-b8f8-4cca-8fe6-f42919ee23c5")
-	)
-	(wire
-		(pts
 			(xy 105.41 304.8) (xy 105.41 299.72)
 		)
 		(stroke
@@ -14477,6 +14461,16 @@
 	)
 	(wire
 		(pts
+			(xy 400.05 72.39) (xy 402.59 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a190b698-0ae2-4b0d-96b3-4351515fea58")
+	)
+	(wire
+		(pts
 			(xy 247.65 179.07) (xy 266.7 179.07)
 		)
 		(stroke
@@ -14494,16 +14488,6 @@
 			(type default)
 		)
 		(uuid "a33d7af7-ee87-49a7-ae1f-4e91970b3540")
-	)
-	(wire
-		(pts
-			(xy 482.6 72.39) (xy 485.14 72.39)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a420e835-7358-4ddc-b892-48473e0464b8")
 	)
 	(wire
 		(pts
@@ -14564,16 +14548,6 @@
 			(type default)
 		)
 		(uuid "a6d6d071-41b0-462d-ad1c-f95e8c708174")
-	)
-	(wire
-		(pts
-			(xy 397.51 110.49) (xy 400.05 110.49)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a74b77e7-3036-48d3-b7cc-459396936b92")
 	)
 	(wire
 		(pts
@@ -14687,6 +14661,16 @@
 	)
 	(wire
 		(pts
+			(xy 405.13 72.39) (xy 439.42 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ace38815-f8ee-4cd2-8048-9404594c2ddf")
+	)
+	(wire
+		(pts
 			(xy 102.87 163.83) (xy 118.11 163.83)
 		)
 		(stroke
@@ -14707,13 +14691,23 @@
 	)
 	(wire
 		(pts
-			(xy 441.96 135.89) (xy 440.69 135.89)
+			(xy 441.96 72.39) (xy 444.5 72.39)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "af04900f-e092-484e-a029-38afc11193ee")
+		(uuid "b0ef5d72-0059-4c9e-9e16-cd3e70254999")
+	)
+	(wire
+		(pts
+			(xy 485.14 72.39) (xy 487.68 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b1c72188-6271-436c-a8f8-8747f79b240d")
 	)
 	(wire
 		(pts
@@ -14754,6 +14748,16 @@
 			(type default)
 		)
 		(uuid "b369f9d2-3475-4efb-ba3a-75d756e9f616")
+	)
+	(wire
+		(pts
+			(xy 490.22 72.39) (xy 492.76 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b5c948cf-bce5-4ade-8d22-e19e48424a40")
 	)
 	(wire
 		(pts
@@ -14847,16 +14851,6 @@
 	)
 	(wire
 		(pts
-			(xy 485.14 72.39) (xy 487.68 72.39)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "bbf71bad-e03b-4a57-a8de-ad5a9b5236b4")
-	)
-	(wire
-		(pts
 			(xy 118.11 171.45) (xy 134.62 171.45)
 		)
 		(stroke
@@ -14927,7 +14921,7 @@
 	)
 	(wire
 		(pts
-			(xy 440.69 135.89) (xy 440.69 142.24)
+			(xy 441.96 135.89) (xy 441.96 142.24)
 		)
 		(stroke
 			(width 0)
@@ -14977,7 +14971,7 @@
 	)
 	(wire
 		(pts
-			(xy 440.69 142.24) (xy 440.69 146.05)
+			(xy 441.96 142.24) (xy 441.96 146.05)
 		)
 		(stroke
 			(width 0)
@@ -15027,7 +15021,7 @@
 	)
 	(wire
 		(pts
-			(xy 490.22 72.39) (xy 492.76 72.39)
+			(xy 444.5 72.39) (xy 447.04 72.39)
 		)
 		(stroke
 			(width 0)
@@ -15087,7 +15081,7 @@
 	)
 	(wire
 		(pts
-			(xy 397.51 161.29) (xy 440.69 161.29)
+			(xy 397.51 161.29) (xy 441.96 161.29)
 		)
 		(stroke
 			(width 0)
@@ -15104,16 +15098,6 @@
 			(type default)
 		)
 		(uuid "d34f258e-932d-4c92-ac01-07af10fe39b3")
-	)
-	(wire
-		(pts
-			(xy 441.96 72.39) (xy 444.5 72.39)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d47112e2-59d8-46e9-90f6-20d953a32485")
 	)
 	(wire
 		(pts
@@ -15207,6 +15191,16 @@
 	)
 	(wire
 		(pts
+			(xy 400.05 110.49) (xy 402.59 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "da8976d3-9323-4b9b-8a66-e310331e557d")
+	)
+	(wire
+		(pts
 			(xy 104.14 321.31) (xy 134.62 321.31)
 		)
 		(stroke
@@ -15277,6 +15271,26 @@
 	)
 	(wire
 		(pts
+			(xy 447.04 110.49) (xy 449.58 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e1064b45-b592-47c0-93d6-49dc9f9e323c")
+	)
+	(wire
+		(pts
+			(xy 487.68 110.49) (xy 490.22 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e144c0e3-7da8-4a84-bd7f-8b59c3b49d6b")
+	)
+	(wire
+		(pts
 			(xy 248.92 102.87) (xy 266.7 102.87)
 		)
 		(stroke
@@ -15327,7 +15341,7 @@
 	)
 	(wire
 		(pts
-			(xy 440.69 161.29) (xy 440.69 158.75)
+			(xy 441.96 161.29) (xy 441.96 158.75)
 		)
 		(stroke
 			(width 0)
@@ -15447,16 +15461,6 @@
 	)
 	(wire
 		(pts
-			(xy 400.05 72.39) (xy 402.59 72.39)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "edb8bc66-6be4-43da-97f6-694a312de749")
-	)
-	(wire
-		(pts
 			(xy 499.11 44.45) (xy 506.73 44.45)
 		)
 		(stroke
@@ -15504,16 +15508,6 @@
 			(type default)
 		)
 		(uuid "f3e09508-75c5-45f9-bce8-33c9daef90b5")
-	)
-	(wire
-		(pts
-			(xy 447.04 110.49) (xy 449.58 110.49)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f452d791-e1c2-4777-8c55-5f3bfba18675")
 	)
 	(wire
 		(pts
@@ -15684,16 +15678,6 @@
 			(type default)
 		)
 		(uuid "fefa5f02-40e5-49c3-b0d1-d27aad1a5097")
-	)
-	(wire
-		(pts
-			(xy 397.51 72.39) (xy 400.05 72.39)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ff08ee20-752c-4f8a-810d-6f23d4416c0e")
 	)
 	(wire
 		(pts
@@ -17201,169 +17185,6 @@
 		)
 	)
 	(symbol
-		(lib_id "dash:FDMS039N08B")
-		(at 400.05 85.09 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "0f53e63f-7031-419f-bd17-f62c0d7610fe")
-		(property "Reference" "Q1"
-			(at 407.162 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right top)
-				(hide yes)
-			)
-		)
-		(property "Value" "FDMS039N08B"
-			(at 409.702 74.168 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "dash:FDMS039N08B"
-			(at 421.64 180.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.onsemi.com/pub/Collateral/FDMS039N08B-D.PDF"
-			(at 421.64 280.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Description" "100% UIL Tested; Low Reverse Recovery Charge, Qrr = 80nC; RDS(on) = 3.2 m (Typ.)@ VGS = 10 V, ID = 50 A; RoHS Compliant; Low FOM RDS(on) *QG; Fast Switching Speed; Enables highly efficiency in synchronous rectification; Soft reverse recovery Body Diode"
-			(at 394.208 110.744 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Height" "1.1"
-			(at 421.64 480.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Name" "onsemi"
-			(at 421.64 580.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "FDMS039N08B"
-			(at 421.64 680.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Part Number" "512-FDMS039N08B"
-			(at 421.64 780.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/onsemi-Fairchild/FDMS039N08B?qs=EN3VjTIJKYFlfg%252B94RGiRQ%3D%3D"
-			(at 421.64 880.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Arrow Part Number" "FDMS039N08B"
-			(at 421.64 980.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/fdms039n08b/on-semiconductor?region=nac"
-			(at 421.64 1080.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "3518f411-29f8-4827-9285-a908e3444ba2")
-		)
-		(pin "4"
-			(uuid "55a53c76-a880-4275-a034-d2bbc36c76a8")
-		)
-		(pin "6"
-			(uuid "186d9c40-934d-4afd-8042-1c7932c980e7")
-		)
-		(pin "2"
-			(uuid "d0f8fd38-9431-4ec1-a0bf-a5af93aef442")
-		)
-		(pin "3"
-			(uuid "8c1c8f59-0820-4c23-8420-661dad881720")
-		)
-		(pin "7"
-			(uuid "5e09c583-926e-4837-9070-8289df263a1e")
-		)
-		(pin "8"
-			(uuid "ea1e16a3-fad4-4076-b246-c8c2563155a9")
-		)
-		(pin "9"
-			(uuid "80aa9813-558b-47e7-8d20-5bb34ab4107c")
-		)
-		(pin "5"
-			(uuid "3a6c782d-525e-4a81-a339-43bc7419f3a7")
-		)
-		(instances
-			(project ""
-				(path "/71f0fcc1-c7ad-470c-8d48-d038c53969d3"
-					(reference "Q1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "dash:GRM32EC72A106KE05L")
 		(at 407.67 49.53 90)
 		(unit 1)
@@ -17822,6 +17643,170 @@
 			(project "DashMotor48V"
 				(path "/71f0fcc1-c7ad-470c-8d48-d038c53969d3"
 					(reference "#PWR024")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "dash:FDMS039N08B")
+		(at 444.5 85.09 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "19bbf386-80b9-4bfd-82bf-b7a41f5afa86")
+		(property "Reference" "Q3"
+			(at 451.612 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right top)
+				(hide yes)
+			)
+		)
+		(property "Value" "FDMS039N08B"
+			(at 453.39 85.0899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "dash:FDMS039N08B"
+			(at 466.09 180.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.onsemi.com/pub/Collateral/FDMS039N08B-D.PDF"
+			(at 466.09 280.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "100% UIL Tested; Low Reverse Recovery Charge, Qrr = 80nC; RDS(on) = 3.2 m (Typ.)@ VGS = 10 V, ID = 50 A; RoHS Compliant; Low FOM RDS(on) *QG; Fast Switching Speed; Enables highly efficiency in synchronous rectification; Soft reverse recovery Body Diode"
+			(at 438.658 110.744 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "1.1"
+			(at 466.09 480.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "onsemi"
+			(at 466.09 580.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "FDMS039N08B"
+			(at 466.09 680.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "512-FDMS039N08B"
+			(at 466.09 780.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/onsemi-Fairchild/FDMS039N08B?qs=EN3VjTIJKYFlfg%252B94RGiRQ%3D%3D"
+			(at 466.09 880.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" "FDMS039N08B"
+			(at 466.09 980.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/fdms039n08b/on-semiconductor?region=nac"
+			(at 466.09 1080.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "6"
+			(uuid "2c36220e-4230-4c10-96a9-d804d08d1d17")
+		)
+		(pin "3"
+			(uuid "5360e90d-f25d-4338-b2c9-c2c553a2d740")
+		)
+		(pin "2"
+			(uuid "0849904d-00ea-42b7-af32-faf8db190ba7")
+		)
+		(pin "7"
+			(uuid "94a2ef7b-e003-48ed-9324-6628cb68ebcd")
+		)
+		(pin "9"
+			(uuid "7dc467ba-28f5-420a-a88a-b9fc9e7380a2")
+		)
+		(pin "8"
+			(uuid "5d39356b-2b0f-4589-801f-38e1089a5b93")
+		)
+		(pin "4"
+			(uuid "ce1fbe86-ad62-48c5-a7b8-c90e941eb45a")
+		)
+		(pin "1"
+			(uuid "f814c829-e549-425c-9594-28d58fc8e58e")
+		)
+		(pin "5"
+			(uuid "5e7f7530-c887-4760-96b3-0ef83f6dd19d")
+		)
+		(instances
+			(project "DashMotor48V"
+				(path "/71f0fcc1-c7ad-470c-8d48-d038c53969d3"
+					(reference "Q3")
 					(unit 1)
 				)
 			)
@@ -18562,169 +18547,6 @@
 		)
 	)
 	(symbol
-		(lib_id "dash:FDMS039N08B")
-		(at 444.5 123.19 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "32015fbc-3cee-4053-b2d4-b8dae6d5792c")
-		(property "Reference" "Q4"
-			(at 451.612 101.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right top)
-				(hide yes)
-			)
-		)
-		(property "Value" "FDMS039N08B"
-			(at 453.898 116.078 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "dash:FDMS039N08B"
-			(at 466.09 218.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.onsemi.com/pub/Collateral/FDMS039N08B-D.PDF"
-			(at 466.09 318.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Description" "100% UIL Tested; Low Reverse Recovery Charge, Qrr = 80nC; RDS(on) = 3.2 m (Typ.)@ VGS = 10 V, ID = 50 A; RoHS Compliant; Low FOM RDS(on) *QG; Fast Switching Speed; Enables highly efficiency in synchronous rectification; Soft reverse recovery Body Diode"
-			(at 438.658 148.844 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Height" "1.1"
-			(at 466.09 518.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Name" "onsemi"
-			(at 466.09 618.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "FDMS039N08B"
-			(at 466.09 718.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Part Number" "512-FDMS039N08B"
-			(at 466.09 818.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/onsemi-Fairchild/FDMS039N08B?qs=EN3VjTIJKYFlfg%252B94RGiRQ%3D%3D"
-			(at 466.09 918.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Arrow Part Number" "FDMS039N08B"
-			(at 466.09 1018.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/fdms039n08b/on-semiconductor?region=nac"
-			(at 466.09 1118.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "15bdd15b-256f-4f2e-8e16-1cc6bd4a0cd4")
-		)
-		(pin "4"
-			(uuid "5ba41c47-572d-4f7a-a275-3c7f66e1cd28")
-		)
-		(pin "6"
-			(uuid "f4a5c56b-b629-4c48-b8e7-acd48562c045")
-		)
-		(pin "2"
-			(uuid "94881e45-52c5-4169-b33c-83622640d884")
-		)
-		(pin "3"
-			(uuid "af1603e6-14c7-4c59-ab53-e70d56bb6a09")
-		)
-		(pin "7"
-			(uuid "6408d36f-4905-46e0-ab9b-a01dcc28042e")
-		)
-		(pin "8"
-			(uuid "3a93c2db-1363-4232-a430-28f8a9904999")
-		)
-		(pin "9"
-			(uuid "18abe08a-0869-47c8-9544-51da02999fc5")
-		)
-		(pin "5"
-			(uuid "ab3003a6-eae6-4432-8b55-3f2fdd969695")
-		)
-		(instances
-			(project "DashMotor48V"
-				(path "/71f0fcc1-c7ad-470c-8d48-d038c53969d3"
-					(reference "Q4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 316.23 256.54 0)
 		(unit 1)
@@ -18792,7 +18614,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 440.69 163.83 0)
+		(at 441.96 163.83 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -18801,7 +18623,7 @@
 		(fields_autoplaced yes)
 		(uuid "32ff0dfd-13bc-406c-8ae0-cd04d4fcf720")
 		(property "Reference" "#PWR047"
-			(at 440.69 170.18 0)
+			(at 441.96 170.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18810,7 +18632,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 440.69 168.91 0)
+			(at 441.96 168.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18818,7 +18640,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 440.69 163.83 0)
+			(at 441.96 163.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18827,7 +18649,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 440.69 163.83 0)
+			(at 441.96 163.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18836,7 +18658,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 440.69 163.83 0)
+			(at 441.96 163.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19049,169 +18871,6 @@
 			(project "DashMotor48V"
 				(path "/71f0fcc1-c7ad-470c-8d48-d038c53969d3"
 					(reference "#PWR06")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "dash:FDMS039N08B")
-		(at 487.68 85.09 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "39b09803-6ece-419f-95b3-98c8013db151")
-		(property "Reference" "Q5"
-			(at 494.792 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right top)
-				(hide yes)
-			)
-		)
-		(property "Value" "FDMS039N08B"
-			(at 497.84 75.184 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "dash:FDMS039N08B"
-			(at 509.27 180.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.onsemi.com/pub/Collateral/FDMS039N08B-D.PDF"
-			(at 509.27 280.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Description" "100% UIL Tested; Low Reverse Recovery Charge, Qrr = 80nC; RDS(on) = 3.2 m (Typ.)@ VGS = 10 V, ID = 50 A; RoHS Compliant; Low FOM RDS(on) *QG; Fast Switching Speed; Enables highly efficiency in synchronous rectification; Soft reverse recovery Body Diode"
-			(at 481.838 110.744 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Height" "1.1"
-			(at 509.27 480.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Name" "onsemi"
-			(at 509.27 580.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "FDMS039N08B"
-			(at 509.27 680.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Part Number" "512-FDMS039N08B"
-			(at 509.27 780.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/onsemi-Fairchild/FDMS039N08B?qs=EN3VjTIJKYFlfg%252B94RGiRQ%3D%3D"
-			(at 509.27 880.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Arrow Part Number" "FDMS039N08B"
-			(at 509.27 980.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/fdms039n08b/on-semiconductor?region=nac"
-			(at 509.27 1080.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "23c301f7-a3af-4a4d-9929-f5c732a776dd")
-		)
-		(pin "4"
-			(uuid "a9656c42-619e-4468-a9f0-8a4c1926318b")
-		)
-		(pin "6"
-			(uuid "17799819-3342-4a8a-8686-bc4693bbe358")
-		)
-		(pin "2"
-			(uuid "fde3c598-c292-4b03-8727-425d4cc11c0c")
-		)
-		(pin "3"
-			(uuid "bac47828-4939-4218-a3d2-f72c14168e2a")
-		)
-		(pin "7"
-			(uuid "3519a822-ee06-489f-81dd-7b841242427f")
-		)
-		(pin "8"
-			(uuid "1d862ec1-3d7c-40a2-b89f-13db9fa9631f")
-		)
-		(pin "9"
-			(uuid "789dbe67-5e43-4554-9c9d-3229219f5836")
-		)
-		(pin "5"
-			(uuid "05f24eb4-e7b2-42d5-8091-c192e726779f")
-		)
-		(instances
-			(project "DashMotor48V"
-				(path "/71f0fcc1-c7ad-470c-8d48-d038c53969d3"
-					(reference "Q5")
 					(unit 1)
 				)
 			)
@@ -20006,6 +19665,170 @@
 		)
 	)
 	(symbol
+		(lib_id "dash:FDMS039N08B")
+		(at 400.05 123.19 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "57178d96-43b4-4854-80e3-7d9596431072")
+		(property "Reference" "Q2"
+			(at 407.162 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right top)
+				(hide yes)
+			)
+		)
+		(property "Value" "FDMS039N08B"
+			(at 408.94 123.1899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "dash:FDMS039N08B"
+			(at 421.64 218.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.onsemi.com/pub/Collateral/FDMS039N08B-D.PDF"
+			(at 421.64 318.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "100% UIL Tested; Low Reverse Recovery Charge, Qrr = 80nC; RDS(on) = 3.2 m (Typ.)@ VGS = 10 V, ID = 50 A; RoHS Compliant; Low FOM RDS(on) *QG; Fast Switching Speed; Enables highly efficiency in synchronous rectification; Soft reverse recovery Body Diode"
+			(at 394.208 148.844 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "1.1"
+			(at 421.64 518.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "onsemi"
+			(at 421.64 618.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "FDMS039N08B"
+			(at 421.64 718.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "512-FDMS039N08B"
+			(at 421.64 818.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/onsemi-Fairchild/FDMS039N08B?qs=EN3VjTIJKYFlfg%252B94RGiRQ%3D%3D"
+			(at 421.64 918.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" "FDMS039N08B"
+			(at 421.64 1018.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/fdms039n08b/on-semiconductor?region=nac"
+			(at 421.64 1118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "6"
+			(uuid "e36813f3-02da-4c0d-bdc5-c05b53def5ad")
+		)
+		(pin "3"
+			(uuid "473ba2e8-2afb-49fb-9ada-ef6d19441b0b")
+		)
+		(pin "2"
+			(uuid "9349f596-bd71-41c9-82ed-012c65c4fea8")
+		)
+		(pin "7"
+			(uuid "d9d8e950-d3c3-4be3-8406-df0e87a0f85a")
+		)
+		(pin "9"
+			(uuid "6a14ac76-54d3-4a8f-8adf-f1bdb9c25344")
+		)
+		(pin "8"
+			(uuid "e9d314a6-a47f-42a7-abde-41f5e96286b3")
+		)
+		(pin "4"
+			(uuid "ff1bc312-925f-4110-bbd4-7b33c5fe4deb")
+		)
+		(pin "1"
+			(uuid "822e8b58-b9c8-4787-8854-397465072910")
+		)
+		(pin "5"
+			(uuid "d881ec9a-9d00-4d7f-8227-85697bb1dd81")
+		)
+		(instances
+			(project "DashMotor48V"
+				(path "/71f0fcc1-c7ad-470c-8d48-d038c53969d3"
+					(reference "Q2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "dash:RC0402FR_0742K2L")
 		(at 177.8 330.2 90)
 		(unit 1)
@@ -20077,7 +19900,7 @@
 	)
 	(symbol
 		(lib_id "dash:WSLF25121L000FEA")
-		(at 440.69 158.75 90)
+		(at 441.96 158.75 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -20086,7 +19909,7 @@
 		(fields_autoplaced yes)
 		(uuid "59b370f0-0f83-4394-b27b-04c4f80a383d")
 		(property "Reference" "R12"
-			(at 443.23 151.1299 90)
+			(at 444.5 151.1299 90)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -20095,7 +19918,7 @@
 			)
 		)
 		(property "Value" "WSLF25121L000FEA"
-			(at 443.23 153.6699 90)
+			(at 444.5 153.6699 90)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -20104,7 +19927,7 @@
 			)
 		)
 		(property "Footprint" "dash:WSLF25121L000FEA"
-			(at 440.69 158.75 0)
+			(at 441.96 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20114,7 +19937,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.vishay.com/doc?30193"
-			(at 440.69 158.75 0)
+			(at 441.96 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20124,7 +19947,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 440.69 158.75 0)
+			(at 441.96 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20807,169 +20630,6 @@
 			(project "DashMotor48V"
 				(path "/71f0fcc1-c7ad-470c-8d48-d038c53969d3"
 					(reference "#PWR068")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "dash:FDMS039N08B")
-		(at 400.05 123.19 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "65250dd4-3f7e-46ab-811d-6b161c6918d8")
-		(property "Reference" "Q2"
-			(at 407.162 101.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right top)
-				(hide yes)
-			)
-		)
-		(property "Value" "FDMS039N08B"
-			(at 409.194 115.824 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "dash:FDMS039N08B"
-			(at 421.64 218.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.onsemi.com/pub/Collateral/FDMS039N08B-D.PDF"
-			(at 421.64 318.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Description" "100% UIL Tested; Low Reverse Recovery Charge, Qrr = 80nC; RDS(on) = 3.2 m (Typ.)@ VGS = 10 V, ID = 50 A; RoHS Compliant; Low FOM RDS(on) *QG; Fast Switching Speed; Enables highly efficiency in synchronous rectification; Soft reverse recovery Body Diode"
-			(at 394.208 148.844 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Height" "1.1"
-			(at 421.64 518.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Name" "onsemi"
-			(at 421.64 618.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "FDMS039N08B"
-			(at 421.64 718.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Part Number" "512-FDMS039N08B"
-			(at 421.64 818.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/onsemi-Fairchild/FDMS039N08B?qs=EN3VjTIJKYFlfg%252B94RGiRQ%3D%3D"
-			(at 421.64 918.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Arrow Part Number" "FDMS039N08B"
-			(at 421.64 1018.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/fdms039n08b/on-semiconductor?region=nac"
-			(at 421.64 1118.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "7fba3347-ed76-4c2a-a78a-5e72d94a5775")
-		)
-		(pin "4"
-			(uuid "a06316b1-6462-4a7a-9a59-e80a24b63b8b")
-		)
-		(pin "6"
-			(uuid "6a092d78-0b0a-4bd2-a5b3-44937719be11")
-		)
-		(pin "2"
-			(uuid "c4955977-ed89-4f37-bc6a-6f06a04efdc0")
-		)
-		(pin "3"
-			(uuid "7843ef00-3df7-48d8-ad47-991cdc8f008c")
-		)
-		(pin "7"
-			(uuid "622a930f-3640-4e36-a3a7-5f8cbadb9c03")
-		)
-		(pin "8"
-			(uuid "088c9e45-edf0-46a5-8ecf-532699a4cc7b")
-		)
-		(pin "9"
-			(uuid "e0e72287-cd78-4ecb-9dfb-2498071e5104")
-		)
-		(pin "5"
-			(uuid "ebdb1f9e-578f-4a70-becd-ceb613bb2298")
-		)
-		(instances
-			(project "DashMotor48V"
-				(path "/71f0fcc1-c7ad-470c-8d48-d038c53969d3"
-					(reference "Q2")
 					(unit 1)
 				)
 			)
@@ -26773,6 +26433,170 @@
 		)
 	)
 	(symbol
+		(lib_id "dash:FDMS039N08B")
+		(at 400.05 85.09 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "cfeb4e52-8793-40bc-9fd5-1e668c391d6b")
+		(property "Reference" "Q1"
+			(at 407.162 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right top)
+				(hide yes)
+			)
+		)
+		(property "Value" "FDMS039N08B"
+			(at 408.94 85.0899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "dash:FDMS039N08B"
+			(at 421.64 180.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.onsemi.com/pub/Collateral/FDMS039N08B-D.PDF"
+			(at 421.64 280.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "100% UIL Tested; Low Reverse Recovery Charge, Qrr = 80nC; RDS(on) = 3.2 m (Typ.)@ VGS = 10 V, ID = 50 A; RoHS Compliant; Low FOM RDS(on) *QG; Fast Switching Speed; Enables highly efficiency in synchronous rectification; Soft reverse recovery Body Diode"
+			(at 394.208 110.744 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "1.1"
+			(at 421.64 480.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "onsemi"
+			(at 421.64 580.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "FDMS039N08B"
+			(at 421.64 680.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "512-FDMS039N08B"
+			(at 421.64 780.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/onsemi-Fairchild/FDMS039N08B?qs=EN3VjTIJKYFlfg%252B94RGiRQ%3D%3D"
+			(at 421.64 880.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" "FDMS039N08B"
+			(at 421.64 980.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/fdms039n08b/on-semiconductor?region=nac"
+			(at 421.64 1080.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "6"
+			(uuid "f9ed3d72-96ab-4f05-af8b-a7f9d1baebd8")
+		)
+		(pin "3"
+			(uuid "69d033f1-1323-44f8-b670-1d0d10ae24ad")
+		)
+		(pin "2"
+			(uuid "d9aa3400-cfb8-4d51-a650-91c3aaecaa99")
+		)
+		(pin "7"
+			(uuid "0a163fd4-daa4-481b-a3fd-4e5154e61203")
+		)
+		(pin "9"
+			(uuid "d7b04345-ec3d-4cc1-abdb-8b5fc8f7fe0a")
+		)
+		(pin "8"
+			(uuid "bc1c7b22-a6fc-428d-9a52-8b49ebd176fb")
+		)
+		(pin "4"
+			(uuid "f84d2062-993f-43cf-9cbf-03d2c8f4998b")
+		)
+		(pin "1"
+			(uuid "698f3653-bccd-481a-91ca-0b6ddd9a1663")
+		)
+		(pin "5"
+			(uuid "0f287ab0-b1fc-45b5-9ad1-c44d850dc0a6")
+		)
+		(instances
+			(project ""
+				(path "/71f0fcc1-c7ad-470c-8d48-d038c53969d3"
+					(reference "Q1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 334.01 186.69 0)
 		(unit 1)
@@ -26966,6 +26790,170 @@
 			(project "DashMotor48V"
 				(path "/71f0fcc1-c7ad-470c-8d48-d038c53969d3"
 					(reference "H2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "dash:FDMS039N08B")
+		(at 487.68 123.19 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d1c7fc7a-70d8-4f98-a269-ee9df04bc354")
+		(property "Reference" "Q6"
+			(at 494.792 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right top)
+				(hide yes)
+			)
+		)
+		(property "Value" "FDMS039N08B"
+			(at 496.57 123.1899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "dash:FDMS039N08B"
+			(at 509.27 218.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.onsemi.com/pub/Collateral/FDMS039N08B-D.PDF"
+			(at 509.27 318.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "100% UIL Tested; Low Reverse Recovery Charge, Qrr = 80nC; RDS(on) = 3.2 m (Typ.)@ VGS = 10 V, ID = 50 A; RoHS Compliant; Low FOM RDS(on) *QG; Fast Switching Speed; Enables highly efficiency in synchronous rectification; Soft reverse recovery Body Diode"
+			(at 481.838 148.844 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "1.1"
+			(at 509.27 518.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "onsemi"
+			(at 509.27 618.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "FDMS039N08B"
+			(at 509.27 718.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "512-FDMS039N08B"
+			(at 509.27 818.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/onsemi-Fairchild/FDMS039N08B?qs=EN3VjTIJKYFlfg%252B94RGiRQ%3D%3D"
+			(at 509.27 918.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" "FDMS039N08B"
+			(at 509.27 1018.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/fdms039n08b/on-semiconductor?region=nac"
+			(at 509.27 1118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "6"
+			(uuid "d8782f8f-f72a-49f8-881a-47897772618b")
+		)
+		(pin "3"
+			(uuid "39481a75-a611-441e-a6d4-d7a9c152178f")
+		)
+		(pin "2"
+			(uuid "b42ebfe3-06f0-4321-8fb6-16746688a119")
+		)
+		(pin "7"
+			(uuid "f1131746-59a4-4741-b7d2-229d30eb53e7")
+		)
+		(pin "9"
+			(uuid "d99486a3-380c-41b3-9a97-da5f1a540516")
+		)
+		(pin "8"
+			(uuid "685e5880-ecc6-449a-a821-7780531ec802")
+		)
+		(pin "4"
+			(uuid "53996dc8-d4cc-4012-b5d2-306026ed3055")
+		)
+		(pin "1"
+			(uuid "05916347-0f7b-490a-b152-92405172a814")
+		)
+		(pin "5"
+			(uuid "4f473fa6-a2b2-4cfb-83b3-3574e0861a47")
+		)
+		(instances
+			(project "DashMotor48V"
+				(path "/71f0fcc1-c7ad-470c-8d48-d038c53969d3"
+					(reference "Q6")
 					(unit 1)
 				)
 			)
@@ -27746,169 +27734,6 @@
 		)
 	)
 	(symbol
-		(lib_id "dash:FDMS039N08B")
-		(at 444.5 85.09 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "e34d2ba0-700c-4e79-9695-e7ce725177e7")
-		(property "Reference" "Q3"
-			(at 451.612 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right top)
-				(hide yes)
-			)
-		)
-		(property "Value" "FDMS039N08B"
-			(at 453.898 74.422 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "dash:FDMS039N08B"
-			(at 466.09 180.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.onsemi.com/pub/Collateral/FDMS039N08B-D.PDF"
-			(at 466.09 280.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Description" "100% UIL Tested; Low Reverse Recovery Charge, Qrr = 80nC; RDS(on) = 3.2 m (Typ.)@ VGS = 10 V, ID = 50 A; RoHS Compliant; Low FOM RDS(on) *QG; Fast Switching Speed; Enables highly efficiency in synchronous rectification; Soft reverse recovery Body Diode"
-			(at 438.658 110.744 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Height" "1.1"
-			(at 466.09 480.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Name" "onsemi"
-			(at 466.09 580.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "FDMS039N08B"
-			(at 466.09 680.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Part Number" "512-FDMS039N08B"
-			(at 466.09 780.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/onsemi-Fairchild/FDMS039N08B?qs=EN3VjTIJKYFlfg%252B94RGiRQ%3D%3D"
-			(at 466.09 880.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Arrow Part Number" "FDMS039N08B"
-			(at 466.09 980.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/fdms039n08b/on-semiconductor?region=nac"
-			(at 466.09 1080.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "08c06270-9867-437f-a30d-a019c53e60bc")
-		)
-		(pin "4"
-			(uuid "49756586-9908-485a-88af-98fe1c17e640")
-		)
-		(pin "6"
-			(uuid "d6369d0b-40c8-496c-b6b6-83161af457fa")
-		)
-		(pin "2"
-			(uuid "8c87584b-bbd4-462b-9598-f169a9e765bc")
-		)
-		(pin "3"
-			(uuid "c2f42d33-5f73-41cb-b80d-542972b724fc")
-		)
-		(pin "7"
-			(uuid "8b8cefef-745a-4fe3-9e23-a5a5424a871b")
-		)
-		(pin "8"
-			(uuid "dd304963-5072-4ba8-875f-a7eeb181fdae")
-		)
-		(pin "9"
-			(uuid "cbb56e89-6889-467d-b844-72feaa2c96f9")
-		)
-		(pin "5"
-			(uuid "3f80e4d7-47df-49e7-9210-2cb0303fe64a")
-		)
-		(instances
-			(project "DashMotor48V"
-				(path "/71f0fcc1-c7ad-470c-8d48-d038c53969d3"
-					(reference "Q3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 491.49 251.46 0)
 		(unit 1)
@@ -28035,6 +27860,170 @@
 			(project ""
 				(path "/71f0fcc1-c7ad-470c-8d48-d038c53969d3"
 					(reference "#PWR04")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "dash:FDMS039N08B")
+		(at 487.68 85.09 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e84c0b65-4642-486d-8337-15cd0c6609fd")
+		(property "Reference" "Q5"
+			(at 494.792 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right top)
+				(hide yes)
+			)
+		)
+		(property "Value" "FDMS039N08B"
+			(at 496.57 85.0899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "dash:FDMS039N08B"
+			(at 509.27 180.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.onsemi.com/pub/Collateral/FDMS039N08B-D.PDF"
+			(at 509.27 280.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "100% UIL Tested; Low Reverse Recovery Charge, Qrr = 80nC; RDS(on) = 3.2 m (Typ.)@ VGS = 10 V, ID = 50 A; RoHS Compliant; Low FOM RDS(on) *QG; Fast Switching Speed; Enables highly efficiency in synchronous rectification; Soft reverse recovery Body Diode"
+			(at 481.838 110.744 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "1.1"
+			(at 509.27 480.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "onsemi"
+			(at 509.27 580.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "FDMS039N08B"
+			(at 509.27 680.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "512-FDMS039N08B"
+			(at 509.27 780.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/onsemi-Fairchild/FDMS039N08B?qs=EN3VjTIJKYFlfg%252B94RGiRQ%3D%3D"
+			(at 509.27 880.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" "FDMS039N08B"
+			(at 509.27 980.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/fdms039n08b/on-semiconductor?region=nac"
+			(at 509.27 1080.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "6"
+			(uuid "6a3567c1-20da-43b4-9dc9-c34ea88cb24e")
+		)
+		(pin "3"
+			(uuid "d2b5788b-93ef-4b68-97e0-16291668707d")
+		)
+		(pin "2"
+			(uuid "4436d489-60cd-4993-838e-eeff7d624f7c")
+		)
+		(pin "7"
+			(uuid "e0ffa7f9-8391-4f78-9423-4732f1e80f78")
+		)
+		(pin "9"
+			(uuid "13e6dbfa-c693-41d6-ac87-1f6336437606")
+		)
+		(pin "8"
+			(uuid "574202ad-4e10-446c-bc88-0d4fc9ee2a0f")
+		)
+		(pin "4"
+			(uuid "1b0a779a-5acd-46bc-a9b5-c106e29f128d")
+		)
+		(pin "1"
+			(uuid "95a404f2-9b5f-4528-b297-bb93573666ed")
+		)
+		(pin "5"
+			(uuid "190a4de9-fa99-4264-8667-41f409c27ffd")
+		)
+		(instances
+			(project "DashMotor48V"
+				(path "/71f0fcc1-c7ad-470c-8d48-d038c53969d3"
+					(reference "Q5")
 					(unit 1)
 				)
 			)
@@ -28175,169 +28164,6 @@
 			(project "DashMotor48V"
 				(path "/71f0fcc1-c7ad-470c-8d48-d038c53969d3"
 					(reference "C19")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "dash:FDMS039N08B")
-		(at 487.68 123.19 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "eaa5107f-7d09-4b30-8d9d-02e7c001d63e")
-		(property "Reference" "Q6"
-			(at 494.792 101.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right top)
-				(hide yes)
-			)
-		)
-		(property "Value" "FDMS039N08B"
-			(at 498.094 115.824 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "dash:FDMS039N08B"
-			(at 509.27 218.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.onsemi.com/pub/Collateral/FDMS039N08B-D.PDF"
-			(at 509.27 318.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Description" "100% UIL Tested; Low Reverse Recovery Charge, Qrr = 80nC; RDS(on) = 3.2 m (Typ.)@ VGS = 10 V, ID = 50 A; RoHS Compliant; Low FOM RDS(on) *QG; Fast Switching Speed; Enables highly efficiency in synchronous rectification; Soft reverse recovery Body Diode"
-			(at 481.838 148.844 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Height" "1.1"
-			(at 509.27 518.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Name" "onsemi"
-			(at 509.27 618.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "FDMS039N08B"
-			(at 509.27 718.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Part Number" "512-FDMS039N08B"
-			(at 509.27 818.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/onsemi-Fairchild/FDMS039N08B?qs=EN3VjTIJKYFlfg%252B94RGiRQ%3D%3D"
-			(at 509.27 918.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Arrow Part Number" "FDMS039N08B"
-			(at 509.27 1018.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/fdms039n08b/on-semiconductor?region=nac"
-			(at 509.27 1118.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "36a34f03-e758-4de2-b01e-3bd774a38fbf")
-		)
-		(pin "4"
-			(uuid "6312ee3f-fb1a-4546-a25f-d2a76f87573f")
-		)
-		(pin "6"
-			(uuid "ddfd6b8a-f19c-43e6-81c6-6e280865f662")
-		)
-		(pin "2"
-			(uuid "2a3160e2-95d7-4ca1-a949-d23192e74dc4")
-		)
-		(pin "3"
-			(uuid "04c8987e-67e0-402e-a933-6e9bacbd84d6")
-		)
-		(pin "7"
-			(uuid "67edafae-4130-49e8-91f3-cc1522f00fa0")
-		)
-		(pin "8"
-			(uuid "3624bcfa-20f1-436e-9c33-61c8a382a60d")
-		)
-		(pin "9"
-			(uuid "d755e97f-f4cb-4664-af4a-c13e292d3899")
-		)
-		(pin "5"
-			(uuid "e813348c-4276-4a0e-96bb-fc94dd647f6e")
-		)
-		(instances
-			(project "DashMotor48V"
-				(path "/71f0fcc1-c7ad-470c-8d48-d038c53969d3"
-					(reference "Q6")
 					(unit 1)
 				)
 			)
@@ -28747,6 +28573,170 @@
 			(project ""
 				(path "/71f0fcc1-c7ad-470c-8d48-d038c53969d3"
 					(reference "J1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "dash:FDMS039N08B")
+		(at 444.5 123.19 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f49085e8-d3bf-4393-9535-139c374b2ff2")
+		(property "Reference" "Q4"
+			(at 451.612 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right top)
+				(hide yes)
+			)
+		)
+		(property "Value" "FDMS039N08B"
+			(at 453.39 123.1899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "dash:FDMS039N08B"
+			(at 466.09 218.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.onsemi.com/pub/Collateral/FDMS039N08B-D.PDF"
+			(at 466.09 318.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "100% UIL Tested; Low Reverse Recovery Charge, Qrr = 80nC; RDS(on) = 3.2 m (Typ.)@ VGS = 10 V, ID = 50 A; RoHS Compliant; Low FOM RDS(on) *QG; Fast Switching Speed; Enables highly efficiency in synchronous rectification; Soft reverse recovery Body Diode"
+			(at 438.658 148.844 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "1.1"
+			(at 466.09 518.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "onsemi"
+			(at 466.09 618.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "FDMS039N08B"
+			(at 466.09 718.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "512-FDMS039N08B"
+			(at 466.09 818.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/onsemi-Fairchild/FDMS039N08B?qs=EN3VjTIJKYFlfg%252B94RGiRQ%3D%3D"
+			(at 466.09 918.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" "FDMS039N08B"
+			(at 466.09 1018.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/fdms039n08b/on-semiconductor?region=nac"
+			(at 466.09 1118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "6"
+			(uuid "5372f5a4-3988-4652-90f1-1241f99080d6")
+		)
+		(pin "3"
+			(uuid "6f001252-70ef-40cc-a15d-9187a65a974b")
+		)
+		(pin "2"
+			(uuid "829dc5da-9a31-4bec-b065-fbe2ae80bc0a")
+		)
+		(pin "7"
+			(uuid "d2232525-afff-46b8-bb73-a34dc87bdb0c")
+		)
+		(pin "9"
+			(uuid "0a4f22a1-533b-4eef-99f5-e3a9796c3046")
+		)
+		(pin "8"
+			(uuid "1b598303-bb49-41ce-b3d0-0e48e91ec720")
+		)
+		(pin "4"
+			(uuid "43f29cc4-953e-4552-af93-1edee203caa4")
+		)
+		(pin "1"
+			(uuid "e6c8680a-6a70-4222-ae4a-3a1230e22cf0")
+		)
+		(pin "5"
+			(uuid "5ebb33d3-3a98-4d54-9fff-93c01ded1795")
+		)
+		(instances
+			(project "DashMotor48V"
+				(path "/71f0fcc1-c7ad-470c-8d48-d038c53969d3"
+					(reference "Q4")
 					(unit 1)
 				)
 			)
