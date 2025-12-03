@@ -4,6 +4,11 @@
 	(generator_version "9.0")
 	(uuid "71f0fcc1-c7ad-470c-8d48-d038c53969d3")
 	(paper "User" 550 500)
+	(title_block
+		(title "Dash 48V")
+		(date "2025-12-02")
+		(company "DARoS Lab")
+	)
 	(lib_symbols
 		(symbol "Mechanical:MountingHole_Pad"
 			(pin_numbers
@@ -10610,7 +10615,7 @@
 	)
 	(text "MCU"
 		(exclude_from_sim no)
-		(at 26.67 25.908 0)
+		(at 29.972 25.4 0)
 		(effects
 			(font
 				(face "Uroob")
@@ -10624,7 +10629,7 @@
 	)
 	(text "Auxiliaries"
 		(exclude_from_sim no)
-		(at 377.444 246.126 0)
+		(at 386.334 246.38 0)
 		(effects
 			(font
 				(face "Uroob")
@@ -10638,7 +10643,7 @@
 	)
 	(text "Gate Driver"
 		(exclude_from_sim no)
-		(at 208.026 26.162 0)
+		(at 216.662 25.4 0)
 		(effects
 			(font
 				(face "Uroob")
@@ -10652,7 +10657,7 @@
 	)
 	(text "Can\n"
 		(exclude_from_sim no)
-		(at 199.898 248.412 0)
+		(at 201.422 246.38 0)
 		(effects
 			(font
 				(face "Uroob")
@@ -10666,7 +10671,7 @@
 	)
 	(text "Encoder"
 		(exclude_from_sim no)
-		(at 32.512 246.634 0)
+		(at 38.608 246.38 0)
 		(effects
 			(font
 				(face "Uroob")
@@ -10680,7 +10685,7 @@
 	)
 	(text "Fets & bulk capacitors"
 		(exclude_from_sim no)
-		(at 392.176 26.416 0)
+		(at 409.702 25.4 0)
 		(effects
 			(font
 				(face "Uroob")
@@ -10694,7 +10699,7 @@
 	)
 	(text "Power"
 		(exclude_from_sim no)
-		(at 45.466 384.81 0)
+		(at 50.292 384.81 0)
 		(effects
 			(font
 				(face "Uroob")
