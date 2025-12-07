@@ -15809,7 +15809,7 @@
 		)
 		(uuid "17f850be-8593-423e-a9f6-0cda776effb1")
 	)
-	(label "CANH"
+	(label "CAN+"
 		(at 326.39 246.38 180)
 		(effects
 			(font
@@ -15889,7 +15889,7 @@
 		)
 		(uuid "2b84192b-aa1c-4c3b-92c1-89fa05a05455")
 	)
-	(label "CANL"
+	(label "CAN-"
 		(at 464.82 248.92 0)
 		(effects
 			(font
@@ -16009,7 +16009,7 @@
 		)
 		(uuid "4e300fdc-0a7e-4a79-8408-278afb8e18b5")
 	)
-	(label "CANH"
+	(label "CAN+"
 		(at 464.82 246.38 0)
 		(effects
 			(font
@@ -16259,7 +16259,7 @@
 		)
 		(uuid "a09a3ed4-5a52-4874-a5e7-8657c89acbdd")
 	)
-	(label "CANL"
+	(label "CAN-"
 		(at 326.39 248.92 180)
 		(effects
 			(font
@@ -16409,7 +16409,7 @@
 		)
 		(uuid "dd6b7b46-b383-4187-8760-47796727b37f")
 	)
-	(label "CANL"
+	(label "CAN-"
 		(at 491.49 248.92 0)
 		(effects
 			(font
@@ -16439,7 +16439,7 @@
 		)
 		(uuid "e1611ddf-e0f7-41f7-8e93-3f52c69841b3")
 	)
-	(label "CANH"
+	(label "CAN+"
 		(at 491.49 246.38 0)
 		(effects
 			(font
@@ -28421,6 +28421,72 @@
 			(project "DashMotor48V"
 				(path "/71f0fcc1-c7ad-470c-8d48-d038c53969d3"
 					(reference "C29")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 80.01 334.01 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f294b7e0-9c66-430b-90da-198d56343a78")
+		(property "Reference" "#PWR072"
+			(at 80.01 340.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 80.01 339.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 80.01 334.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 80.01 334.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 80.01 334.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "b563d0aa-e3c0-4f6a-b806-50ee1bf62ed7")
+		)
+		(instances
+			(project "DashMotor48V"
+				(path "/71f0fcc1-c7ad-470c-8d48-d038c53969d3"
+					(reference "#PWR072")
 					(unit 1)
 				)
 			)
