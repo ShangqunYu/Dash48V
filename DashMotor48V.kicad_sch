@@ -10,27 +10,27 @@
 		(company "DARoS Lab")
 	)
 	(lib_symbols
-		(symbol "Mechanical:MountingHole_Pad"
+		(symbol "0_connectors:Solder Pad"
 			(pin_numbers
 				(hide yes)
 			)
 			(pin_names
-				(offset 1.016)
+				(offset 0.762)
 				(hide yes)
 			)
 			(exclude_from_sim no)
-			(in_bom no)
+			(in_bom yes)
 			(on_board yes)
-			(property "Reference" "H"
-				(at 0 6.35 0)
+			(property "Reference" "J"
+				(at 0 10.795 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
 				)
 			)
-			(property "Value" "MountingHole_Pad"
-				(at 0 4.445 0)
+			(property "Value" "Solder Pad"
+				(at 0 8.255 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -38,7 +38,7 @@
 				)
 			)
 			(property "Footprint" ""
-				(at 0 0 0)
+				(at 5.08 0 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -47,6 +47,15 @@
 				)
 			)
 			(property "Datasheet" "~"
+				(at 5.08 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Solder Pad"
 				(at 0 0 0)
 				(effects
 					(font
@@ -55,7 +64,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "Mounting Hole with connection"
+			(property "ki_keywords" "Solder Pad"
 				(at 0 0 0)
 				(effects
 					(font
@@ -64,7 +73,7 @@
 					(hide yes)
 				)
 			)
-			(property "ki_keywords" "mounting hole"
+			(property "ki_fp_filters" "Pin* Test*"
 				(at 0 0 0)
 				(effects
 					(font
@@ -73,31 +82,20 @@
 					(hide yes)
 				)
 			)
-			(property "ki_fp_filters" "MountingHole*Pad*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "MountingHole_Pad_0_1"
+			(symbol "Solder Pad_1_1"
 				(circle
-					(center 0 1.27)
-					(radius 1.27)
+					(center 0 4.445)
+					(radius 1.9716)
 					(stroke
-						(width 1.27)
+						(width 0.5)
 						(type default)
 					)
 					(fill
 						(type none)
 					)
 				)
-			)
-			(symbol "MountingHole_Pad_1_1"
-				(pin input line
-					(at 0 -2.54 90)
+				(pin passive line
+					(at 0 0 90)
 					(length 2.54)
 					(name "1"
 						(effects
@@ -17392,6 +17390,70 @@
 		)
 	)
 	(symbol
+		(lib_id "0_connectors:Solder Pad")
+		(at 499.11 104.14 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "13dab40d-59dc-442d-bc8f-0b77c592634b")
+		(property "Reference" "H3"
+			(at 503.555 97.79 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Phase A"
+			(at 503.555 100.33 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "dash:Pad_Square_Vias_6.5x6.5mm"
+			(at 499.11 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 499.11 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 499.11 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "dbe5cfd4-7bbe-44ff-9b0a-9e8dff063d3b")
+		)
+		(instances
+			(project "DashMotor48V"
+				(path "/71f0fcc1-c7ad-470c-8d48-d038c53969d3"
+					(reference "H3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "dash:GRM32EC72A106KE05L")
 		(at 400.05 49.53 90)
 		(unit 1)
@@ -19318,74 +19380,6 @@
 			(project "DashMotor48V"
 				(path "/71f0fcc1-c7ad-470c-8d48-d038c53969d3"
 					(reference "C27")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Mechanical:MountingHole_Pad")
-		(at 499.11 101.6 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "46518895-0a6e-45e3-8c60-a8db59852a15")
-		(property "Reference" "H3"
-			(at 501.65 99.0599 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "MountingHole_Pad"
-			(at 501.65 101.5999 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2_Pad"
-			(at 499.11 101.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 499.11 101.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Mounting Hole with connection"
-			(at 499.11 101.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "96be4480-6d4d-405d-a65c-7b466d6b4bb0")
-		)
-		(instances
-			(project "DashMotor48V"
-				(path "/71f0fcc1-c7ad-470c-8d48-d038c53969d3"
-					(reference "H3")
 					(unit 1)
 				)
 			)
@@ -25303,74 +25297,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Mechanical:MountingHole_Pad")
-		(at 411.48 101.6 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "b1c5865e-5ca0-4834-b008-6e62824cb242")
-		(property "Reference" "H1"
-			(at 414.02 99.0599 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "MountingHole_Pad"
-			(at 414.02 101.5999 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2_Pad"
-			(at 411.48 101.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 411.48 101.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Mounting Hole with connection"
-			(at 411.48 101.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "bf9df19c-ee73-4e4d-b527-4b70f848e8bf")
-		)
-		(instances
-			(project ""
-				(path "/71f0fcc1-c7ad-470c-8d48-d038c53969d3"
-					(reference "H1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:PWR_FLAG")
 		(at 398.78 340.36 270)
 		(unit 1)
@@ -25431,6 +25357,70 @@
 			(project "DashMotor48V"
 				(path "/71f0fcc1-c7ad-470c-8d48-d038c53969d3"
 					(reference "#FLG05")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "0_connectors:Solder Pad")
+		(at 454.66 104.14 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "b771de6e-5aad-4dc4-8f29-87e4e3444f80")
+		(property "Reference" "H2"
+			(at 459.105 97.79 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Phase A"
+			(at 459.105 100.33 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "dash:Pad_Square_Vias_6.5x6.5mm"
+			(at 454.66 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 454.66 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 454.66 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "9ff60c36-ed13-4794-9a9c-d10a3e629baa")
+		)
+		(instances
+			(project "DashMotor48V"
+				(path "/71f0fcc1-c7ad-470c-8d48-d038c53969d3"
+					(reference "H2")
 					(unit 1)
 				)
 			)
@@ -26722,74 +26712,6 @@
 			(project "DashMotor48V"
 				(path "/71f0fcc1-c7ad-470c-8d48-d038c53969d3"
 					(reference "#PWR062")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Mechanical:MountingHole_Pad")
-		(at 454.66 101.6 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "d1ab58ae-4598-4ab6-9625-6784607ae917")
-		(property "Reference" "H2"
-			(at 457.2 99.0599 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "MountingHole_Pad"
-			(at 457.2 101.5999 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2_Pad"
-			(at 454.66 101.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 454.66 101.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Mounting Hole with connection"
-			(at 454.66 101.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "b2029dd0-2eac-4aeb-bf7d-e8955593e9c5")
-		)
-		(instances
-			(project "DashMotor48V"
-				(path "/71f0fcc1-c7ad-470c-8d48-d038c53969d3"
-					(reference "H2")
 					(unit 1)
 				)
 			)
@@ -29385,6 +29307,70 @@
 			(project "DashMotor48V"
 				(path "/71f0fcc1-c7ad-470c-8d48-d038c53969d3"
 					(reference "C26")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "0_connectors:Solder Pad")
+		(at 411.48 104.14 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "ff0eaf97-275f-4b44-a031-68216a9972bb")
+		(property "Reference" "H1"
+			(at 415.925 97.79 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Phase A"
+			(at 415.925 100.33 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "dash:Pad_Square_Vias_6.5x6.5mm"
+			(at 411.48 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 411.48 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 411.48 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "33d157e4-3def-4cd0-ab01-76015287bcb3")
+		)
+		(instances
+			(project "DashMotor48V"
+				(path "/71f0fcc1-c7ad-470c-8d48-d038c53969d3"
+					(reference "H1")
 					(unit 1)
 				)
 			)
