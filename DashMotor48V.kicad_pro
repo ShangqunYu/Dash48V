@@ -37,9 +37,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.0,
-          "height": 1.7018,
-          "width": 1.7018
+          "drill": 0.2032,
+          "height": 0.499999,
+          "width": 0.499999
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -133,7 +133,7 @@
         "min_microvia_drill": 0.1,
         "min_resolved_spokes": 2,
         "min_silk_clearance": 0.0,
-        "min_text_height": 0.8,
+        "min_text_height": 0.6,
         "min_text_thickness": 0.08,
         "min_through_hole_diameter": 0.2,
         "min_track_width": 0.1,
@@ -503,7 +503,26 @@
     "meta": {
       "version": 4
     },
-    "net_colors": null,
+    "net_colors": {
+      "+12V": "rgb(255, 0, 134)",
+      "+3.3V": "rgb(255, 162, 75)",
+      "+48V": "rgb(225, 70, 255)",
+      "+5V": "rgb(199, 70, 104)",
+      "/CAN+": "rgb(0, 168, 1)",
+      "/CAN-": "rgb(235, 217, 4)",
+      "/GHA": "rgb(194, 193, 118)",
+      "/GHB": "rgb(127, 194, 127)",
+      "/GHC": "rgb(127, 191, 194)",
+      "/GLA": "rgb(194, 193, 118)",
+      "/GLB": "rgb(127, 194, 127)",
+      "/GLC": "rgb(127, 191, 194)",
+      "/PHASA": "rgb(194, 193, 118)",
+      "/PHASB": "rgb(127, 194, 127)",
+      "/PHASC": "rgb(127, 191, 194)",
+      "/SPA": "rgb(194, 193, 118)",
+      "/SPB": "rgb(127, 194, 127)",
+      "GND": "rgb(74, 90, 126)"
+    },
     "netclass_assignments": null,
     "netclass_patterns": [
       {

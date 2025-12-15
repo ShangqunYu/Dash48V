@@ -1,4 +1,4 @@
-26797809738246659
+26799578598729606
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -106504,6 +106504,13 @@ MCP2542FD-E/MF
 0
 9
 9
+dash
+Pad_Square_Vias_6.5x6.5mm
+
+
+0
+65
+1
 dash
 RC0402FR_0710KL
 
