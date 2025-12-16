@@ -10169,7 +10169,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "dash:WSLF25121L000FEA"
+		(symbol "dash:WSLP20101L000FEA"
 			(pin_names
 				(offset 0.254)
 			)
@@ -10184,7 +10184,7 @@
 					)
 				)
 			)
-			(property "Value" "WSLF25121L000FEA"
+			(property "Value" "WSLP20101L000FEA"
 				(at 6.35 -3.81 0)
 				(effects
 					(font
@@ -10192,7 +10192,7 @@
 					)
 				)
 			)
-			(property "Footprint" "dash:WSLF25121L000FEA"
+			(property "Footprint" "dash:WSLP20101L000FEA"
 				(at 0 0 0)
 				(effects
 					(font
@@ -10202,7 +10202,7 @@
 					(hide yes)
 				)
 			)
-			(property "Datasheet" "https://www.vishay.com/doc?30193"
+			(property "Datasheet" "https://www.vishay.com/doc?30122"
 				(at 0 0 0)
 				(effects
 					(font
@@ -10221,7 +10221,7 @@
 					(hide yes)
 				)
 			)
-			(property "ki_keywords" "WSLF25121L000FEA"
+			(property "ki_keywords" "WSLP20101L000FEA"
 				(at 0 0 0)
 				(effects
 					(font
@@ -10230,7 +10230,7 @@
 					(hide yes)
 				)
 			)
-			(property "ki_fp_filters" "RES_00FEA_VIS RES_00FEA_VIS-M RES_00FEA_VIS-L"
+			(property "ki_fp_filters" "RES_VISHAY_WSLP2010_A_VIS"
 				(at 0 0 0)
 				(effects
 					(font
@@ -10239,7 +10239,129 @@
 					(hide yes)
 				)
 			)
-			(symbol "WSLF25121L000FEA_0_1"
+			(symbol "WSLP20101L000FEA_1_1"
+				(polyline
+					(pts
+						(xy 2.54 0) (xy 3.175 1.27)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 3.175 1.27) (xy 4.445 -1.27)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 4.445 -1.27) (xy 5.715 1.27)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 5.715 1.27) (xy 6.985 -1.27)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 6.985 -1.27) (xy 8.255 1.27)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 8.255 1.27) (xy 9.525 -1.27)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 9.525 -1.27) (xy 10.16 0)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin unspecified line
+					(at 0 0 0)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 12.7 0 180)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(symbol "WSLP20101L000FEA_1_2"
 				(polyline
 					(pts
 						(xy 2.54 0) (xy 3.175 1.27)
@@ -16743,6 +16865,78 @@
 		)
 	)
 	(symbol
+		(lib_id "dash:WSLP20101L000FEA")
+		(at 397.51 158.75 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "00758960-4023-4343-a2de-c5e5d8734578")
+		(property "Reference" "R11"
+			(at 400.05 151.1299 90)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "WSLP20101L000FEA"
+			(at 400.05 153.6699 90)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "dash:WSLP20101L000FEA"
+			(at 397.51 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.vishay.com/doc?30122"
+			(at 397.51 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 397.51 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "04332873-fe01-43b9-9131-105f03d7fefa")
+		)
+		(pin "2"
+			(uuid "44814851-835b-438b-91ac-20ba777c231b")
+		)
+		(instances
+			(project ""
+				(path "/71f0fcc1-c7ad-470c-8d48-d038c53969d3"
+					(reference "R11")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "dash:CC0603JRX7R9BB104")
 		(at 118.11 166.37 270)
 		(unit 1)
@@ -19128,6 +19322,78 @@
 		)
 	)
 	(symbol
+		(lib_id "dash:WSLP20101L000FEA")
+		(at 441.96 158.75 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "32e8e3ae-edcc-4ac6-94ee-2114e2cb109c")
+		(property "Reference" "R12"
+			(at 444.5 151.1299 90)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "WSLP20101L000FEA"
+			(at 444.5 153.6699 90)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "dash:WSLP20101L000FEA"
+			(at 441.96 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.vishay.com/doc?30122"
+			(at 441.96 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 441.96 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "6438f672-dcad-4788-92f7-8b8ba4d86bef")
+		)
+		(pin "2"
+			(uuid "dad80844-0614-4e85-9ab3-484587e3f18c")
+		)
+		(instances
+			(project "DashMotor48V"
+				(path "/71f0fcc1-c7ad-470c-8d48-d038c53969d3"
+					(reference "R12")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 441.96 163.83 0)
 		(unit 1)
@@ -20340,78 +20606,6 @@
 			(project ""
 				(path "/71f0fcc1-c7ad-470c-8d48-d038c53969d3"
 					(reference "R4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "dash:WSLF25121L000FEA")
-		(at 441.96 158.75 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "59b370f0-0f83-4394-b27b-04c4f80a383d")
-		(property "Reference" "R12"
-			(at 444.5 151.1299 90)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "WSLF25121L000FEA"
-			(at 444.5 153.6699 90)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "dash:WSLF25121L000FEA"
-			(at 441.96 158.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.vishay.com/doc?30193"
-			(at 441.96 158.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 441.96 158.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "cf0296ec-55f4-4031-bbcf-39adf0999bd4")
-		)
-		(pin "2"
-			(uuid "363477e1-2536-41de-b3bf-c507da838fe4")
-		)
-		(instances
-			(project "DashMotor48V"
-				(path "/71f0fcc1-c7ad-470c-8d48-d038c53969d3"
-					(reference "R12")
 					(unit 1)
 				)
 			)
@@ -25249,78 +25443,6 @@
 			(project "DashMotor48V"
 				(path "/71f0fcc1-c7ad-470c-8d48-d038c53969d3"
 					(reference "C18")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "dash:WSLF25121L000FEA")
-		(at 397.51 158.75 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "a8ff04bc-498b-44c0-b741-1361c699fa38")
-		(property "Reference" "R11"
-			(at 400.05 151.1299 90)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "WSLF25121L000FEA"
-			(at 400.05 153.6699 90)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "dash:WSLF25121L000FEA"
-			(at 397.51 158.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.vishay.com/doc?30193"
-			(at 397.51 158.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 397.51 158.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "6d6d9396-d85e-4ab7-b4db-600b7a7ce2fb")
-		)
-		(pin "2"
-			(uuid "2be89ba4-9708-444b-9718-239b1e41c36c")
-		)
-		(instances
-			(project ""
-				(path "/71f0fcc1-c7ad-470c-8d48-d038c53969d3"
-					(reference "R11")
 					(unit 1)
 				)
 			)
