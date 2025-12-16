@@ -11449,13 +11449,13 @@
 		(uuid "01e2c430-9097-41d4-9dd3-74e91bf1fa7d")
 	)
 	(junction
-		(at 422.91 44.45)
+		(at 406.4 44.45)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "04336af3-4d99-4203-8a20-24eb3492e245")
 	)
 	(junction
-		(at 491.49 44.45)
+		(at 474.98 44.45)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "05192051-9da0-4bd6-ae2c-719bfc641220")
@@ -11467,7 +11467,7 @@
 		(uuid "0a085726-1f28-4072-b414-609542bc479c")
 	)
 	(junction
-		(at 483.87 52.07)
+		(at 467.36 52.07)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "0a6906af-ecd1-4001-a891-c189efe96764")
@@ -11491,7 +11491,7 @@
 		(uuid "0fa91ec7-8c06-497a-b677-ace9d9e46ee8")
 	)
 	(junction
-		(at 499.11 44.45)
+		(at 482.6 44.45)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "12a86fd6-e059-4afc-98d6-c7d686dc7ff0")
@@ -11509,19 +11509,19 @@
 		(uuid "1e8b83bd-fc8d-4437-ac85-425352c90f0c")
 	)
 	(junction
-		(at 392.43 44.45)
+		(at 375.92 44.45)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1f7135f3-ec35-4eb0-9672-84c429d7eb08")
 	)
 	(junction
-		(at 407.67 52.07)
+		(at 391.16 52.07)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1fd4f2e4-6b13-45a8-aa24-6ff91832658e")
 	)
 	(junction
-		(at 400.05 44.45)
+		(at 383.54 44.45)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "20bdf011-20fc-4858-93d2-1e4cd1e7864d")
@@ -11533,7 +11533,7 @@
 		(uuid "222f82e9-8b14-429e-b9bb-ad11b74d0127")
 	)
 	(junction
-		(at 445.77 44.45)
+		(at 429.26 44.45)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "25f9d68d-6acd-4476-8a5d-664556ec6fae")
@@ -11575,13 +11575,19 @@
 		(uuid "35bc867a-641e-4359-bc7c-7d7818aac728")
 	)
 	(junction
-		(at 430.53 52.07)
+		(at 414.02 52.07)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "35d5d335-3b70-4079-b0de-090909ea5ae6")
 	)
 	(junction
-		(at 415.29 44.45)
+		(at 490.22 44.45)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3aecdc1e-4cc4-43a2-b3d0-b48303b4e90e")
+	)
+	(junction
+		(at 398.78 44.45)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "3aedb659-e334-4e29-b1a5-8927dff5274e")
@@ -11605,7 +11611,7 @@
 		(uuid "3ecfd1b2-a027-40c1-869e-34684b3d3768")
 	)
 	(junction
-		(at 422.91 52.07)
+		(at 406.4 52.07)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "40d5d01c-c06c-4385-8eb0-0947000f1213")
@@ -11647,7 +11653,7 @@
 		(uuid "4b1630a4-2fb5-427e-92a7-ac88da6f3574")
 	)
 	(junction
-		(at 468.63 52.07)
+		(at 452.12 52.07)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4bc3158c-cf25-4b24-aa0b-7a30d452108f")
@@ -11671,7 +11677,7 @@
 		(uuid "4f0dee95-9472-40d5-8d81-09a444a71a34")
 	)
 	(junction
-		(at 499.11 52.07)
+		(at 482.6 52.07)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4f4f84b5-571a-46fb-9aff-5e80d31cd612")
@@ -11689,7 +11695,7 @@
 		(uuid "4f89edc0-2f6f-4d09-b9a5-591de0d0bb2e")
 	)
 	(junction
-		(at 445.77 52.07)
+		(at 429.26 52.07)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "54ee8c4c-e86b-492a-8525-94eb93e424a2")
@@ -11701,13 +11707,13 @@
 		(uuid "55f823e1-a9c4-41f3-9de1-40d859dc715d")
 	)
 	(junction
-		(at 476.25 44.45)
+		(at 459.74 44.45)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5655e292-ed95-49c3-ae80-d42a0b8bd170")
 	)
 	(junction
-		(at 430.53 44.45)
+		(at 414.02 44.45)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "58a84390-dc92-4eec-9de4-288dae456b77")
@@ -11719,13 +11725,13 @@
 		(uuid "5b06b98f-1c8c-42b9-9dd8-4fe97daede16")
 	)
 	(junction
-		(at 461.01 44.45)
+		(at 444.5 44.45)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5bd8c7bf-8c92-44a2-aa7d-a8ff015d6fe7")
 	)
 	(junction
-		(at 415.29 52.07)
+		(at 398.78 52.07)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "60d435d4-09d3-49f5-b796-06c870cc531c")
@@ -11755,7 +11761,7 @@
 		(uuid "701efcfb-c5bc-4b51-b792-3bde1c5d8774")
 	)
 	(junction
-		(at 407.67 44.45)
+		(at 391.16 44.45)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "777cd0bb-3bfe-42a6-b3f4-f4571ca346a0")
@@ -11809,7 +11815,7 @@
 		(uuid "7fc083d8-807c-4693-87f1-6fca2974de26")
 	)
 	(junction
-		(at 392.43 52.07)
+		(at 375.92 52.07)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "810a9d2d-a683-4f71-a3de-100a0cf7d23f")
@@ -11827,7 +11833,13 @@
 		(uuid "860e8bd7-0441-406e-a529-895f4d074cd6")
 	)
 	(junction
-		(at 491.49 52.07)
+		(at 505.46 44.45)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "89436aa3-e53d-4b0e-a64b-a98e1b7267ab")
+	)
+	(junction
+		(at 474.98 52.07)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "8d0e107d-d8c9-437b-8ca4-8b1078be83cf")
@@ -11869,7 +11881,7 @@
 		(uuid "9c4712fd-930b-4060-bcd5-fe5a9326ac36")
 	)
 	(junction
-		(at 468.63 44.45)
+		(at 452.12 44.45)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9c95fec8-8a3c-4488-ae18-c0418d99a222")
@@ -11881,7 +11893,7 @@
 		(uuid "a2c546c6-a4cb-41ac-b6f2-0c87a0e7c379")
 	)
 	(junction
-		(at 438.15 44.45)
+		(at 421.64 44.45)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a5fb8ab8-f32e-481f-bf9f-8feb17f5a099")
@@ -11893,7 +11905,13 @@
 		(uuid "a63ea347-62fb-478e-acf2-99826241af7b")
 	)
 	(junction
-		(at 438.15 52.07)
+		(at 497.84 52.07)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a66b11fd-281c-4cf8-9555-008fd841cb30")
+	)
+	(junction
+		(at 421.64 52.07)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "aac934a8-f2ab-4f0a-a557-9362c090f922")
@@ -11935,10 +11953,22 @@
 		(uuid "be169576-3a31-44a1-832f-1935cd1c4e9d")
 	)
 	(junction
+		(at 497.84 44.45)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "bf922e58-6b43-470c-aead-67faed4fcf5a")
+	)
+	(junction
 		(at 485.14 110.49)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c4ba0eb3-5189-4848-9a46-9431c1394e93")
+	)
+	(junction
+		(at 490.22 52.07)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c52d76f9-4e63-4ddb-8e87-5b253b27a6aa")
 	)
 	(junction
 		(at 441.96 97.79)
@@ -11953,7 +11983,7 @@
 		(uuid "c8222d46-8212-4ded-a164-d0e7537f1499")
 	)
 	(junction
-		(at 476.25 52.07)
+		(at 459.74 52.07)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c94179b1-56de-4eb6-8541-8c28812f4a4b")
@@ -11983,7 +12013,7 @@
 		(uuid "d1a34815-c066-4f5f-abe5-5bfbf75c0471")
 	)
 	(junction
-		(at 483.87 44.45)
+		(at 467.36 44.45)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d2022697-a1f4-4fb3-ae50-c46f6aca9b1f")
@@ -11995,7 +12025,7 @@
 		(uuid "d3886a89-0208-4c65-b1ee-f7f9e609b931")
 	)
 	(junction
-		(at 453.39 44.45)
+		(at 436.88 44.45)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d3b4d15a-8cf4-4727-9548-6722c95caf0a")
@@ -12019,7 +12049,7 @@
 		(uuid "da48cfad-3381-440c-b047-1de9b085b086")
 	)
 	(junction
-		(at 400.05 52.07)
+		(at 383.54 52.07)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "db0c0de4-9970-4b29-bf14-cf4b73ece9ed")
@@ -12037,7 +12067,7 @@
 		(uuid "df0eecdf-1f4d-4a74-b135-3251b8bef123")
 	)
 	(junction
-		(at 453.39 52.07)
+		(at 436.88 52.07)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e0b46525-84ae-4ebd-84c4-f26f1d82ca0e")
@@ -12061,6 +12091,12 @@
 		(uuid "f1acce09-7a3c-4a89-842a-6c6323af0964")
 	)
 	(junction
+		(at 505.46 52.07)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f3137216-e84c-423c-9347-d6c974d982aa")
+	)
+	(junction
 		(at 323.85 186.69)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -12079,7 +12115,7 @@
 		(uuid "f549b8e3-ec8e-4306-a2d2-4fa952208a80")
 	)
 	(junction
-		(at 461.01 52.07)
+		(at 444.5 52.07)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f64f834f-b0ad-4650-951f-1f6217c677aa")
@@ -12322,13 +12358,23 @@
 	)
 	(wire
 		(pts
-			(xy 430.53 44.45) (xy 438.15 44.45)
+			(xy 414.02 44.45) (xy 421.64 44.45)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "064db686-c4a7-432f-8e81-5edc49477870")
+	)
+	(wire
+		(pts
+			(xy 497.84 52.07) (xy 505.46 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "07566f17-1df8-4570-935f-560c4818b4c3")
 	)
 	(wire
 		(pts
@@ -12482,7 +12528,7 @@
 	)
 	(wire
 		(pts
-			(xy 438.15 44.45) (xy 445.77 44.45)
+			(xy 421.64 44.45) (xy 429.26 44.45)
 		)
 		(stroke
 			(width 0)
@@ -12492,7 +12538,7 @@
 	)
 	(wire
 		(pts
-			(xy 468.63 44.45) (xy 476.25 44.45)
+			(xy 452.12 44.45) (xy 459.74 44.45)
 		)
 		(stroke
 			(width 0)
@@ -12522,7 +12568,7 @@
 	)
 	(wire
 		(pts
-			(xy 407.67 52.07) (xy 415.29 52.07)
+			(xy 391.16 52.07) (xy 398.78 52.07)
 		)
 		(stroke
 			(width 0)
@@ -12642,7 +12688,7 @@
 	)
 	(wire
 		(pts
-			(xy 400.05 52.07) (xy 407.67 52.07)
+			(xy 383.54 52.07) (xy 391.16 52.07)
 		)
 		(stroke
 			(width 0)
@@ -12712,7 +12758,7 @@
 	)
 	(wire
 		(pts
-			(xy 392.43 52.07) (xy 400.05 52.07)
+			(xy 375.92 52.07) (xy 383.54 52.07)
 		)
 		(stroke
 			(width 0)
@@ -12752,7 +12798,7 @@
 	)
 	(wire
 		(pts
-			(xy 415.29 44.45) (xy 422.91 44.45)
+			(xy 398.78 44.45) (xy 406.4 44.45)
 		)
 		(stroke
 			(width 0)
@@ -12992,7 +13038,7 @@
 	)
 	(wire
 		(pts
-			(xy 461.01 52.07) (xy 468.63 52.07)
+			(xy 444.5 52.07) (xy 452.12 52.07)
 		)
 		(stroke
 			(width 0)
@@ -13082,7 +13128,7 @@
 	)
 	(wire
 		(pts
-			(xy 422.91 52.07) (xy 430.53 52.07)
+			(xy 406.4 52.07) (xy 414.02 52.07)
 		)
 		(stroke
 			(width 0)
@@ -13182,7 +13228,7 @@
 	)
 	(wire
 		(pts
-			(xy 445.77 44.45) (xy 453.39 44.45)
+			(xy 429.26 44.45) (xy 436.88 44.45)
 		)
 		(stroke
 			(width 0)
@@ -13462,7 +13508,7 @@
 	)
 	(wire
 		(pts
-			(xy 483.87 44.45) (xy 491.49 44.45)
+			(xy 467.36 44.45) (xy 474.98 44.45)
 		)
 		(stroke
 			(width 0)
@@ -13712,6 +13758,16 @@
 	)
 	(wire
 		(pts
+			(xy 497.84 44.45) (xy 505.46 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "65af9b44-c9b1-4f31-a50e-7d59ba1c7a46")
+	)
+	(wire
+		(pts
 			(xy 266.7 69.85) (xy 240.03 69.85)
 		)
 		(stroke
@@ -13782,7 +13838,17 @@
 	)
 	(wire
 		(pts
-			(xy 476.25 52.07) (xy 483.87 52.07)
+			(xy 505.46 44.45) (xy 513.08 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6d1892d0-b8d8-4ec1-8eeb-24da88ddc98e")
+	)
+	(wire
+		(pts
+			(xy 459.74 52.07) (xy 467.36 52.07)
 		)
 		(stroke
 			(width 0)
@@ -13902,7 +13968,7 @@
 	)
 	(wire
 		(pts
-			(xy 407.67 44.45) (xy 415.29 44.45)
+			(xy 391.16 44.45) (xy 398.78 44.45)
 		)
 		(stroke
 			(width 0)
@@ -13952,7 +14018,7 @@
 	)
 	(wire
 		(pts
-			(xy 422.91 44.45) (xy 430.53 44.45)
+			(xy 406.4 44.45) (xy 414.02 44.45)
 		)
 		(stroke
 			(width 0)
@@ -13972,7 +14038,7 @@
 	)
 	(wire
 		(pts
-			(xy 430.53 52.07) (xy 438.15 52.07)
+			(xy 414.02 52.07) (xy 421.64 52.07)
 		)
 		(stroke
 			(width 0)
@@ -14022,7 +14088,7 @@
 	)
 	(wire
 		(pts
-			(xy 415.29 52.07) (xy 422.91 52.07)
+			(xy 398.78 52.07) (xy 406.4 52.07)
 		)
 		(stroke
 			(width 0)
@@ -14082,6 +14148,16 @@
 	)
 	(wire
 		(pts
+			(xy 490.22 52.07) (xy 497.84 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7d2ccfc5-b388-409e-8b19-9a4dc74b74c1")
+	)
+	(wire
+		(pts
 			(xy 270.51 314.96) (xy 270.51 317.5)
 		)
 		(stroke
@@ -14132,7 +14208,7 @@
 	)
 	(wire
 		(pts
-			(xy 400.05 44.45) (xy 407.67 44.45)
+			(xy 383.54 44.45) (xy 391.16 44.45)
 		)
 		(stroke
 			(width 0)
@@ -14382,6 +14458,16 @@
 	)
 	(wire
 		(pts
+			(xy 490.22 44.45) (xy 497.84 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "967fe901-e15f-4ecb-8188-372d99e14314")
+	)
+	(wire
+		(pts
 			(xy 85.09 83.82) (xy 102.87 83.82)
 		)
 		(stroke
@@ -14412,7 +14498,7 @@
 	)
 	(wire
 		(pts
-			(xy 499.11 52.07) (xy 506.73 52.07)
+			(xy 482.6 52.07) (xy 490.22 52.07)
 		)
 		(stroke
 			(width 0)
@@ -14442,7 +14528,7 @@
 	)
 	(wire
 		(pts
-			(xy 453.39 44.45) (xy 461.01 44.45)
+			(xy 436.88 44.45) (xy 444.5 44.45)
 		)
 		(stroke
 			(width 0)
@@ -14562,7 +14648,17 @@
 	)
 	(wire
 		(pts
-			(xy 461.01 44.45) (xy 468.63 44.45)
+			(xy 505.46 52.07) (xy 513.08 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a2c7b0b3-961e-4c16-9e7c-8bb4a592b2c5")
+	)
+	(wire
+		(pts
+			(xy 444.5 44.45) (xy 452.12 44.45)
 		)
 		(stroke
 			(width 0)
@@ -14622,7 +14718,7 @@
 	)
 	(wire
 		(pts
-			(xy 445.77 52.07) (xy 453.39 52.07)
+			(xy 429.26 52.07) (xy 436.88 52.07)
 		)
 		(stroke
 			(width 0)
@@ -14632,7 +14728,7 @@
 	)
 	(wire
 		(pts
-			(xy 476.25 44.45) (xy 483.87 44.45)
+			(xy 459.74 44.45) (xy 467.36 44.45)
 		)
 		(stroke
 			(width 0)
@@ -15032,7 +15128,7 @@
 	)
 	(wire
 		(pts
-			(xy 453.39 52.07) (xy 461.01 52.07)
+			(xy 436.88 52.07) (xy 444.5 52.07)
 		)
 		(stroke
 			(width 0)
@@ -15292,7 +15388,7 @@
 	)
 	(wire
 		(pts
-			(xy 438.15 52.07) (xy 445.77 52.07)
+			(xy 421.64 52.07) (xy 429.26 52.07)
 		)
 		(stroke
 			(width 0)
@@ -15322,7 +15418,7 @@
 	)
 	(wire
 		(pts
-			(xy 491.49 52.07) (xy 499.11 52.07)
+			(xy 474.98 52.07) (xy 482.6 52.07)
 		)
 		(stroke
 			(width 0)
@@ -15522,7 +15618,7 @@
 	)
 	(wire
 		(pts
-			(xy 491.49 44.45) (xy 499.11 44.45)
+			(xy 474.98 44.45) (xy 482.6 44.45)
 		)
 		(stroke
 			(width 0)
@@ -15542,7 +15638,7 @@
 	)
 	(wire
 		(pts
-			(xy 499.11 44.45) (xy 506.73 44.45)
+			(xy 482.6 44.45) (xy 490.22 44.45)
 		)
 		(stroke
 			(width 0)
@@ -15602,7 +15698,7 @@
 	)
 	(wire
 		(pts
-			(xy 483.87 52.07) (xy 491.49 52.07)
+			(xy 467.36 52.07) (xy 474.98 52.07)
 		)
 		(stroke
 			(width 0)
@@ -15692,7 +15788,7 @@
 	)
 	(wire
 		(pts
-			(xy 392.43 44.45) (xy 400.05 44.45)
+			(xy 375.92 44.45) (xy 383.54 44.45)
 		)
 		(stroke
 			(width 0)
@@ -15782,7 +15878,7 @@
 	)
 	(wire
 		(pts
-			(xy 468.63 52.07) (xy 476.25 52.07)
+			(xy 452.12 52.07) (xy 459.74 52.07)
 		)
 		(stroke
 			(width 0)
@@ -16993,7 +17089,7 @@
 	)
 	(symbol
 		(lib_id "dash:GRM32EC72A106KE05L")
-		(at 506.73 49.53 90)
+		(at 490.22 49.53 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17001,7 +17097,7 @@
 		(dnp no)
 		(uuid "0860adc2-d4ab-4a2d-9f45-4aa2eaec3406")
 		(property "Reference" "C30"
-			(at 500.888 45.974 90)
+			(at 484.378 45.974 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17010,7 +17106,7 @@
 			)
 		)
 		(property "Value" "10uF"
-			(at 501.65 50.8 90)
+			(at 485.14 50.8 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17019,7 +17115,7 @@
 			)
 		)
 		(property "Footprint" "dash:GRM32EC72A106KE05L"
-			(at 506.73 49.53 0)
+			(at 490.22 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17029,7 +17125,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.digikey.com/en/products/detail/murata-electronics/grm32ec72a106ke05l/7319245"
-			(at 506.73 49.53 0)
+			(at 490.22 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17038,7 +17134,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 506.73 49.53 0)
+			(at 490.22 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17197,7 +17293,7 @@
 	)
 	(symbol
 		(lib_id "dash:GRM32EC72A106KE05L")
-		(at 453.39 49.53 90)
+		(at 436.88 49.53 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17205,7 +17301,7 @@
 		(dnp no)
 		(uuid "0c948a27-09da-4031-bdb9-07a98ce2e3df")
 		(property "Reference" "C23"
-			(at 447.548 45.974 90)
+			(at 431.038 45.974 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17214,7 +17310,7 @@
 			)
 		)
 		(property "Value" "10uF"
-			(at 448.31 50.8 90)
+			(at 431.8 50.8 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17223,7 +17319,7 @@
 			)
 		)
 		(property "Footprint" "dash:GRM32EC72A106KE05L"
-			(at 453.39 49.53 0)
+			(at 436.88 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17233,7 +17329,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.digikey.com/en/products/detail/murata-electronics/grm32ec72a106ke05l/7319245"
-			(at 453.39 49.53 0)
+			(at 436.88 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17242,7 +17338,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 453.39 49.53 0)
+			(at 436.88 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17267,7 +17363,7 @@
 	)
 	(symbol
 		(lib_id "dash:GRM32EC72A106KE05L")
-		(at 407.67 49.53 90)
+		(at 391.16 49.53 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17275,7 +17371,7 @@
 		(dnp no)
 		(uuid "0fd4b065-4c2a-456d-a14e-901f903284b5")
 		(property "Reference" "C17"
-			(at 401.828 45.974 90)
+			(at 385.318 45.974 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17284,7 +17380,7 @@
 			)
 		)
 		(property "Value" "10uF"
-			(at 402.59 50.8 90)
+			(at 386.08 50.8 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17293,7 +17389,7 @@
 			)
 		)
 		(property "Footprint" "dash:GRM32EC72A106KE05L"
-			(at 407.67 49.53 0)
+			(at 391.16 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17303,7 +17399,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.digikey.com/en/products/detail/murata-electronics/grm32ec72a106ke05l/7319245"
-			(at 407.67 49.53 0)
+			(at 391.16 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17312,7 +17408,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 407.67 49.53 0)
+			(at 391.16 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17330,6 +17426,76 @@
 			(project "DashMotor48V"
 				(path "/71f0fcc1-c7ad-470c-8d48-d038c53969d3"
 					(reference "C17")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "dash:GRM32EC72A106KE05L")
+		(at 513.08 49.53 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "0ff253c2-1e55-4c48-8c5b-f983d707ed69")
+		(property "Reference" "C41"
+			(at 507.238 45.974 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "10uF"
+			(at 508 50.8 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "dash:GRM32EC72A106KE05L"
+			(at 513.08 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.digikey.com/en/products/detail/murata-electronics/grm32ec72a106ke05l/7319245"
+			(at 513.08 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 513.08 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "6dd3fb83-f1c6-41ec-843c-300d25cd80ba")
+		)
+		(pin "2"
+			(uuid "8f7463d9-7458-4fb5-a2fa-790dc89f5649")
+		)
+		(instances
+			(project "DashMotor48V"
+				(path "/71f0fcc1-c7ad-470c-8d48-d038c53969d3"
+					(reference "C41")
 					(unit 1)
 				)
 			)
@@ -17602,7 +17768,7 @@
 	)
 	(symbol
 		(lib_id "dash:GRM32EC72A106KE05L")
-		(at 400.05 49.53 90)
+		(at 383.54 49.53 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17610,7 +17776,7 @@
 		(dnp no)
 		(uuid "17a7d02f-ebbe-45c2-bace-1c2aad5bea69")
 		(property "Reference" "C16"
-			(at 394.208 45.974 90)
+			(at 377.698 45.974 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17619,7 +17785,7 @@
 			)
 		)
 		(property "Value" "10uF"
-			(at 394.97 50.8 90)
+			(at 378.46 50.8 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17628,7 +17794,7 @@
 			)
 		)
 		(property "Footprint" "dash:GRM32EC72A106KE05L"
-			(at 400.05 49.53 0)
+			(at 383.54 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17638,7 +17804,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.digikey.com/en/products/detail/murata-electronics/grm32ec72a106ke05l/7319245"
-			(at 400.05 49.53 0)
+			(at 383.54 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17647,7 +17813,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 400.05 49.53 0)
+			(at 383.54 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18357,6 +18523,76 @@
 		)
 	)
 	(symbol
+		(lib_id "dash:GRM32EC72A106KE05L")
+		(at 505.46 49.53 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "235b8e4c-de18-4521-8b82-db9e77c7cc47")
+		(property "Reference" "C40"
+			(at 499.618 45.974 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "10uF"
+			(at 500.38 50.8 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "dash:GRM32EC72A106KE05L"
+			(at 505.46 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.digikey.com/en/products/detail/murata-electronics/grm32ec72a106ke05l/7319245"
+			(at 505.46 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 505.46 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "3b41304f-7163-49b2-9c6b-090b5690b36a")
+		)
+		(pin "2"
+			(uuid "6a72da55-0467-40f3-b810-76766f50429d")
+		)
+		(instances
+			(project "DashMotor48V"
+				(path "/71f0fcc1-c7ad-470c-8d48-d038c53969d3"
+					(reference "C40")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "dash:CC0603KRX7R0BB473")
 		(at 245.11 80.01 90)
 		(unit 1)
@@ -18493,6 +18729,76 @@
 			(project "DashMotor48V"
 				(path "/71f0fcc1-c7ad-470c-8d48-d038c53969d3"
 					(reference "C35")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "dash:GRM32EC72A106KE05L")
+		(at 497.84 49.53 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "2a757511-0b9c-407c-80fc-9f1a49e3fd35")
+		(property "Reference" "C39"
+			(at 491.998 45.974 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "10uF"
+			(at 492.76 50.8 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "dash:GRM32EC72A106KE05L"
+			(at 497.84 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.digikey.com/en/products/detail/murata-electronics/grm32ec72a106ke05l/7319245"
+			(at 497.84 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 497.84 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "15330eb7-7f0f-442d-9ea5-f715b319a218")
+		)
+		(pin "2"
+			(uuid "d28d08b6-822b-4a92-89a7-4d0ecd22d629")
+		)
+		(instances
+			(project "DashMotor48V"
+				(path "/71f0fcc1-c7ad-470c-8d48-d038c53969d3"
+					(reference "C39")
 					(unit 1)
 				)
 			)
@@ -19087,7 +19393,7 @@
 	)
 	(symbol
 		(lib_id "dash:GRM32EC72A106KE05L")
-		(at 468.63 49.53 90)
+		(at 452.12 49.53 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -19095,7 +19401,7 @@
 		(dnp no)
 		(uuid "3def5bc4-b34d-4a07-b097-4cd876d7a1d4")
 		(property "Reference" "C25"
-			(at 462.788 45.974 90)
+			(at 446.278 45.974 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19104,7 +19410,7 @@
 			)
 		)
 		(property "Value" "10uF"
-			(at 463.55 50.8 90)
+			(at 447.04 50.8 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19113,7 +19419,7 @@
 			)
 		)
 		(property "Footprint" "dash:GRM32EC72A106KE05L"
-			(at 468.63 49.53 0)
+			(at 452.12 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19123,7 +19429,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.digikey.com/en/products/detail/murata-electronics/grm32ec72a106ke05l/7319245"
-			(at 468.63 49.53 0)
+			(at 452.12 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19132,7 +19438,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 468.63 49.53 0)
+			(at 452.12 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19464,7 +19770,7 @@
 	)
 	(symbol
 		(lib_id "dash:GRM32EC72A106KE05L")
-		(at 483.87 49.53 90)
+		(at 467.36 49.53 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -19472,7 +19778,7 @@
 		(dnp no)
 		(uuid "46444edd-3e35-4d87-bd74-a2fb264c90b5")
 		(property "Reference" "C27"
-			(at 478.028 45.974 90)
+			(at 461.518 45.974 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19481,7 +19787,7 @@
 			)
 		)
 		(property "Value" "10uF"
-			(at 478.79 50.8 90)
+			(at 462.28 50.8 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19490,7 +19796,7 @@
 			)
 		)
 		(property "Footprint" "dash:GRM32EC72A106KE05L"
-			(at 483.87 49.53 0)
+			(at 467.36 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19500,7 +19806,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.digikey.com/en/products/detail/murata-electronics/grm32ec72a106ke05l/7319245"
-			(at 483.87 49.53 0)
+			(at 467.36 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19509,7 +19815,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 483.87 49.53 0)
+			(at 467.36 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19737,7 +20043,7 @@
 	)
 	(symbol
 		(lib_id "dash:GRM32EC72A106KE05L")
-		(at 461.01 49.53 90)
+		(at 444.5 49.53 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -19745,7 +20051,7 @@
 		(dnp no)
 		(uuid "50aa8d85-84d7-4608-8c8a-c88448edc72c")
 		(property "Reference" "C24"
-			(at 455.168 45.974 90)
+			(at 438.658 45.974 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19754,7 +20060,7 @@
 			)
 		)
 		(property "Value" "10uF"
-			(at 455.93 50.8 90)
+			(at 439.42 50.8 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19763,7 +20069,7 @@
 			)
 		)
 		(property "Footprint" "dash:GRM32EC72A106KE05L"
-			(at 461.01 49.53 0)
+			(at 444.5 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19773,7 +20079,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.digikey.com/en/products/detail/murata-electronics/grm32ec72a106ke05l/7319245"
-			(at 461.01 49.53 0)
+			(at 444.5 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19782,7 +20088,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 461.01 49.53 0)
+			(at 444.5 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22265,7 +22571,7 @@
 	)
 	(symbol
 		(lib_id "power:+48V")
-		(at 392.43 44.45 0)
+		(at 375.92 44.45 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -22274,7 +22580,7 @@
 		(fields_autoplaced yes)
 		(uuid "72f625e9-7f15-439a-800a-60ed567fc006")
 		(property "Reference" "#PWR048"
-			(at 392.43 48.26 0)
+			(at 375.92 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22283,7 +22589,7 @@
 			)
 		)
 		(property "Value" "+48V"
-			(at 392.43 39.37 0)
+			(at 375.92 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22291,7 +22597,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 392.43 44.45 0)
+			(at 375.92 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22300,7 +22606,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 392.43 44.45 0)
+			(at 375.92 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22309,7 +22615,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+48V\""
-			(at 392.43 44.45 0)
+			(at 375.92 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22666,7 +22972,7 @@
 	)
 	(symbol
 		(lib_id "dash:GRM32EC72A106KE05L")
-		(at 430.53 49.53 90)
+		(at 414.02 49.53 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -22674,7 +22980,7 @@
 		(dnp no)
 		(uuid "7ee36651-d2c3-4a7f-87ed-d22b8b16604e")
 		(property "Reference" "C20"
-			(at 424.688 45.974 90)
+			(at 408.178 45.974 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22683,7 +22989,7 @@
 			)
 		)
 		(property "Value" "10uF"
-			(at 425.45 50.8 90)
+			(at 408.94 50.8 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22692,7 +22998,7 @@
 			)
 		)
 		(property "Footprint" "dash:GRM32EC72A106KE05L"
-			(at 430.53 49.53 0)
+			(at 414.02 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22702,7 +23008,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.digikey.com/en/products/detail/murata-electronics/grm32ec72a106ke05l/7319245"
-			(at 430.53 49.53 0)
+			(at 414.02 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22711,7 +23017,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 430.53 49.53 0)
+			(at 414.02 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24810,7 +25116,7 @@
 	)
 	(symbol
 		(lib_id "dash:GRM32EC72A106KE05L")
-		(at 392.43 49.53 90)
+		(at 375.92 49.53 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -24818,7 +25124,7 @@
 		(dnp no)
 		(uuid "a43b8a77-4941-41dd-829d-e428f25ed371")
 		(property "Reference" "C15"
-			(at 386.588 45.974 90)
+			(at 370.078 45.974 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24827,7 +25133,7 @@
 			)
 		)
 		(property "Value" "10uF"
-			(at 387.35 50.8 90)
+			(at 370.84 50.8 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24836,7 +25142,7 @@
 			)
 		)
 		(property "Footprint" "dash:GRM32EC72A106KE05L"
-			(at 392.43 49.53 0)
+			(at 375.92 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24846,7 +25152,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.digikey.com/en/products/detail/murata-electronics/grm32ec72a106ke05l/7319245"
-			(at 392.43 49.53 0)
+			(at 375.92 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24855,7 +25161,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 392.43 49.53 0)
+			(at 375.92 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24880,7 +25186,7 @@
 	)
 	(symbol
 		(lib_id "dash:GRM32EC72A106KE05L")
-		(at 415.29 49.53 90)
+		(at 398.78 49.53 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -24888,7 +25194,7 @@
 		(dnp no)
 		(uuid "a6e21614-2f9c-46e8-9c63-cb91a394c7ff")
 		(property "Reference" "C18"
-			(at 409.448 45.974 90)
+			(at 392.938 45.974 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24897,7 +25203,7 @@
 			)
 		)
 		(property "Value" "10uF"
-			(at 410.21 50.8 90)
+			(at 393.7 50.8 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24906,7 +25212,7 @@
 			)
 		)
 		(property "Footprint" "dash:GRM32EC72A106KE05L"
-			(at 415.29 49.53 0)
+			(at 398.78 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24916,7 +25222,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.digikey.com/en/products/detail/murata-electronics/grm32ec72a106ke05l/7319245"
-			(at 415.29 49.53 0)
+			(at 398.78 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24925,7 +25231,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 415.29 49.53 0)
+			(at 398.78 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25639,7 +25945,7 @@
 	)
 	(symbol
 		(lib_id "dash:GRM32EC72A106KE05L")
-		(at 438.15 49.53 90)
+		(at 421.64 49.53 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -25647,7 +25953,7 @@
 		(dnp no)
 		(uuid "b7b7bff3-8301-4db6-b026-e080f7ca9235")
 		(property "Reference" "C21"
-			(at 432.308 45.974 90)
+			(at 415.798 45.974 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25656,7 +25962,7 @@
 			)
 		)
 		(property "Value" "10uF"
-			(at 433.07 50.8 90)
+			(at 416.56 50.8 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25665,7 +25971,7 @@
 			)
 		)
 		(property "Footprint" "dash:GRM32EC72A106KE05L"
-			(at 438.15 49.53 0)
+			(at 421.64 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25675,7 +25981,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.digikey.com/en/products/detail/murata-electronics/grm32ec72a106ke05l/7319245"
-			(at 438.15 49.53 0)
+			(at 421.64 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25684,7 +25990,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 438.15 49.53 0)
+			(at 421.64 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26288,7 +26594,7 @@
 	)
 	(symbol
 		(lib_id "dash:GRM32EC72A106KE05L")
-		(at 445.77 49.53 90)
+		(at 429.26 49.53 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -26296,7 +26602,7 @@
 		(dnp no)
 		(uuid "c60a363b-3a29-49b9-a28c-020c6b44d259")
 		(property "Reference" "C22"
-			(at 439.928 45.974 90)
+			(at 423.418 45.974 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26305,7 +26611,7 @@
 			)
 		)
 		(property "Value" "10uF"
-			(at 440.69 50.8 90)
+			(at 424.18 50.8 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26314,7 +26620,7 @@
 			)
 		)
 		(property "Footprint" "dash:GRM32EC72A106KE05L"
-			(at 445.77 49.53 0)
+			(at 429.26 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26324,7 +26630,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.digikey.com/en/products/detail/murata-electronics/grm32ec72a106ke05l/7319245"
-			(at 445.77 49.53 0)
+			(at 429.26 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26333,7 +26639,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 445.77 49.53 0)
+			(at 429.26 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27224,7 +27530,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 392.43 52.07 0)
+		(at 375.92 52.07 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -27233,7 +27539,7 @@
 		(fields_autoplaced yes)
 		(uuid "d386512a-4943-4e22-935d-c55d090f1620")
 		(property "Reference" "#PWR049"
-			(at 392.43 58.42 0)
+			(at 375.92 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27242,7 +27548,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 392.43 57.15 0)
+			(at 375.92 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27250,7 +27556,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 392.43 52.07 0)
+			(at 375.92 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27259,7 +27565,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 392.43 52.07 0)
+			(at 375.92 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27268,7 +27574,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 392.43 52.07 0)
+			(at 375.92 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28228,7 +28534,7 @@
 	)
 	(symbol
 		(lib_id "dash:GRM32EC72A106KE05L")
-		(at 491.49 49.53 90)
+		(at 474.98 49.53 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -28236,7 +28542,7 @@
 		(dnp no)
 		(uuid "e87f86c2-13dc-4a32-95c5-882bd4c45b42")
 		(property "Reference" "C28"
-			(at 485.648 45.974 90)
+			(at 469.138 45.974 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28245,7 +28551,7 @@
 			)
 		)
 		(property "Value" "10uF"
-			(at 486.41 50.8 90)
+			(at 469.9 50.8 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28254,7 +28560,7 @@
 			)
 		)
 		(property "Footprint" "dash:GRM32EC72A106KE05L"
-			(at 491.49 49.53 0)
+			(at 474.98 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28264,7 +28570,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.digikey.com/en/products/detail/murata-electronics/grm32ec72a106ke05l/7319245"
-			(at 491.49 49.53 0)
+			(at 474.98 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28273,7 +28579,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 491.49 49.53 0)
+			(at 474.98 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28298,7 +28604,7 @@
 	)
 	(symbol
 		(lib_id "dash:GRM32EC72A106KE05L")
-		(at 422.91 49.53 90)
+		(at 406.4 49.53 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -28306,7 +28612,7 @@
 		(dnp no)
 		(uuid "e9e7532c-84d2-4d03-9fd3-ba940312382d")
 		(property "Reference" "C19"
-			(at 417.068 45.974 90)
+			(at 400.558 45.974 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28315,7 +28621,7 @@
 			)
 		)
 		(property "Value" "10uF"
-			(at 417.83 50.8 90)
+			(at 401.32 50.8 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28324,7 +28630,7 @@
 			)
 		)
 		(property "Footprint" "dash:GRM32EC72A106KE05L"
-			(at 422.91 49.53 0)
+			(at 406.4 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28334,7 +28640,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.digikey.com/en/products/detail/murata-electronics/grm32ec72a106ke05l/7319245"
-			(at 422.91 49.53 0)
+			(at 406.4 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28343,7 +28649,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 422.91 49.53 0)
+			(at 406.4 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28555,7 +28861,7 @@
 	)
 	(symbol
 		(lib_id "dash:GRM32EC72A106KE05L")
-		(at 499.11 49.53 90)
+		(at 482.6 49.53 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -28563,7 +28869,7 @@
 		(dnp no)
 		(uuid "ef466656-e991-4aab-8e3d-afa50036dd45")
 		(property "Reference" "C29"
-			(at 493.268 45.974 90)
+			(at 476.758 45.974 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28572,7 +28878,7 @@
 			)
 		)
 		(property "Value" "10uF"
-			(at 494.03 50.8 90)
+			(at 477.52 50.8 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28581,7 +28887,7 @@
 			)
 		)
 		(property "Footprint" "dash:GRM32EC72A106KE05L"
-			(at 499.11 49.53 0)
+			(at 482.6 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28591,7 +28897,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.digikey.com/en/products/detail/murata-electronics/grm32ec72a106ke05l/7319245"
-			(at 499.11 49.53 0)
+			(at 482.6 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28600,7 +28906,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 499.11 49.53 0)
+			(at 482.6 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29583,7 +29889,7 @@
 	)
 	(symbol
 		(lib_id "dash:GRM32EC72A106KE05L")
-		(at 476.25 49.53 90)
+		(at 459.74 49.53 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -29591,7 +29897,7 @@
 		(dnp no)
 		(uuid "fe0d0743-7ce8-4747-b209-130efbac1ebc")
 		(property "Reference" "C26"
-			(at 470.408 45.974 90)
+			(at 453.898 45.974 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29600,7 +29906,7 @@
 			)
 		)
 		(property "Value" "10uF"
-			(at 471.17 50.8 90)
+			(at 454.66 50.8 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29609,7 +29915,7 @@
 			)
 		)
 		(property "Footprint" "dash:GRM32EC72A106KE05L"
-			(at 476.25 49.53 0)
+			(at 459.74 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29619,7 +29925,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.digikey.com/en/products/detail/murata-electronics/grm32ec72a106ke05l/7319245"
-			(at 476.25 49.53 0)
+			(at 459.74 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29628,7 +29934,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 476.25 49.53 0)
+			(at 459.74 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
