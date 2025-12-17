@@ -21563,7 +21563,7 @@
 				)
 			)
 		)
-		(property "Value" "STM32F446RCT6"
+		(property "Value" "STM32F446RET6"
 			(at 125.73 43.18 0)
 			(effects
 				(font
@@ -21590,7 +21590,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "I found out they have RET6 now"
 			(at 125.73 111.76 0)
 			(effects
 				(font
