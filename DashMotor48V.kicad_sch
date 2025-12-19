@@ -20478,7 +20478,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "2.2uF"
+		(property "Value" "CL31B225KCHSNNE"
 			(at 41.91 309.8799 90)
 			(effects
 				(font
@@ -20506,7 +20506,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "2.2uF"
 			(at 38.1 309.88 0)
 			(effects
 				(font
@@ -25219,7 +25219,7 @@
 		(dnp no)
 		(uuid "905d0d10-140f-47c8-97db-d3e1fd2aa850")
 		(property "Reference" "C42"
-			(at 123.19 314.9599 0)
+			(at 123.19 316.992 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25366,12 +25366,13 @@
 				)
 			)
 		)
-		(property "Value" "2.2uH"
+		(property "Value" "DFE252012PD-2R2M=P2"
 			(at 369.57 313.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "dash:DFE252012PD_2R2M_P2"
@@ -25393,13 +25394,12 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "2.2uH"
 			(at 369.57 317.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -25435,7 +25435,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "JST BM07B-SRSS-TB(LF)(SN)"
+		(property "Value" "BM07B-SRSS-TB(LF)(SN)"
 			(at 430.784 264.668 0)
 			(effects
 				(font
@@ -28922,7 +28922,7 @@
 		(dnp no)
 		(uuid "d2237fc3-df94-48c7-90a5-dbf6239d3b3e")
 		(property "Reference" "C43"
-			(at 128.27 300.99 90)
+			(at 128.016 303.53 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29636,12 +29636,13 @@
 				)
 			)
 		)
-		(property "Value" "2.2uH"
+		(property "Value" "DFE252012PD-2R2M=P2"
 			(at 260.35 313.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "dash:DFE252012PD_2R2M_P2"
@@ -29663,13 +29664,12 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "2.2uH"
 			(at 260.35 317.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -30930,7 +30930,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "JST BM07B-SRSS-TB(LF)(SN)"
+		(property "Value" "BM07B-SRSS-TB(LF)(SN)"
 			(at 386.334 264.668 0)
 			(effects
 				(font
