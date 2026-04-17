@@ -832,7 +832,7 @@
         "uuid": "71f0fcc1-c7ad-470c-8d48-d038c53969d3"
       }
     ],
-    "used_designators": "R16-18,Q1-6",
+    "used_designators": "C44-45,J3,#PWR75-76,R5,R16-18,Q1-6",
     "variants": []
   },
   "sheets": [
