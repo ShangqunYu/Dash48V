@@ -541,9 +541,10 @@
       "/GLC": "rgb(127, 191, 194)",
       "/PHASA": "rgb(194, 193, 118)",
       "/PHASB": "rgb(127, 194, 127)",
-      "/PHASC": "rgb(127, 191, 194)",
+      "/PHASC": "rgb(0, 194, 194)",
       "/SPA": "rgb(194, 193, 118)",
       "/SPB": "rgb(127, 194, 127)",
+      "/SPC": "rgb(0, 194, 194)",
       "GND": "rgb(74, 90, 126)"
     },
     "netclass_assignments": null,
@@ -832,7 +833,7 @@
         "uuid": "71f0fcc1-c7ad-470c-8d48-d038c53969d3"
       }
     ],
-    "used_designators": "C44-45,J3,#PWR75-76,R5,R16-18,Q1-6",
+    "used_designators": "C21,C46-56,Q7-12",
     "variants": []
   },
   "sheets": [
