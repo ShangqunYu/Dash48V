@@ -2520,133 +2520,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "dash:CC0603JRX7R9BB104"
-			(pin_names
-				(offset 1.016)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "C"
-				(at 0 3.81 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Value" "CC0603JRX7R9BB104"
-				(at 0 -5.08 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Footprint" "dash:CC0603JRX7R9BB104"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Description" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(symbol "CC0603JRX7R9BB104_0_0"
-				(rectangle
-					(start 0 -1.905)
-					(end 0.635 1.905)
-					(stroke
-						(width 0.1)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(rectangle
-					(start 1.905 -1.905)
-					(end 2.54 1.905)
-					(stroke
-						(width 0.1)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(pin passive line
-					(at 5.08 0 180)
-					(length 2.54)
-					(name ""
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -2.54 0 0)
-					(length 2.54)
-					(name ""
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "dash:CC0603KRX7R0BB473"
 			(pin_names
 				(offset 1.016)
@@ -17945,7 +17818,7 @@
 		)
 		(uuid "2cbc583c-6baa-443c-a884-afe4b07f63db")
 	)
-	(label "CAN-"
+	(label "CAN+"
 		(at 464.82 248.92 0)
 		(effects
 			(font
@@ -18075,7 +17948,7 @@
 		)
 		(uuid "4e300fdc-0a7e-4a79-8408-278afb8e18b5")
 	)
-	(label "CAN+"
+	(label "CAN-"
 		(at 464.82 246.38 0)
 		(effects
 			(font
@@ -18115,7 +17988,7 @@
 		)
 		(uuid "553b0663-ee05-45c0-88e5-6bd2ea660a84")
 	)
-	(label "I_A"
+	(label "I_C"
 		(at 90.17 71.12 0)
 		(effects
 			(font
@@ -18415,7 +18288,7 @@
 		)
 		(uuid "bdaf3374-cbba-4e96-8d6f-772aee37137e")
 	)
-	(label "I_C"
+	(label "I_A"
 		(at 90.17 76.2 0)
 		(effects
 			(font
@@ -18505,7 +18378,7 @@
 		)
 		(uuid "dd6b7b46-b383-4187-8760-47796727b37f")
 	)
-	(label "CAN-"
+	(label "CAN+"
 		(at 491.49 248.92 0)
 		(effects
 			(font
@@ -18545,7 +18418,7 @@
 		)
 		(uuid "e5a3d2a9-0ad7-4de2-a5a3-2d2038a05f49")
 	)
-	(label "CAN+"
+	(label "CAN-"
 		(at 491.49 246.38 0)
 		(effects
 			(font
@@ -19604,7 +19477,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
 			(at 447.04 148.59 0)
 			(hide yes)
 			(show_name no)
@@ -21799,89 +21672,6 @@
 			(project "DashMotor48V"
 				(path "/71f0fcc1-c7ad-470c-8d48-d038c53969d3"
 					(reference "C23")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "dash:CC0603JRX7R9BB104")
-		(at 170.18 154.94 270)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "28ceea30-2a71-4afb-af9a-019b53e4d464")
-		(property "Reference" "C31"
-			(at 173.99 154.9399 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "100nF 50V"
-			(at 173.99 157.4799 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "dash:CC0603JRX7R9BB104"
-			(at 170.18 154.94 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Datasheet" ""
-			(at 170.18 154.94 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 170.18 154.94 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "45f9c62a-41a3-44bd-b2db-72a479619464")
-		)
-		(pin "1"
-			(uuid "b29f9022-cab7-4ff6-8889-f1e3ec2dfb24")
-		)
-		(instances
-			(project "DashMotor48V"
-				(path "/71f0fcc1-c7ad-470c-8d48-d038c53969d3"
-					(reference "C31")
 					(unit 1)
 				)
 			)
@@ -31073,6 +30863,290 @@
 			(project "DashMotor48V"
 				(path "/71f0fcc1-c7ad-470c-8d48-d038c53969d3"
 					(reference "C22")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "dash:CL10B104KC8NNNC")
+		(at 170.18 154.94 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "a931554e-4700-4d96-aa5e-2bb38876a3ed")
+		(property "Reference" "C57"
+			(at 174.752 151.638 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "100nF 100V"
+			(at 172.72 155.702 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "dash:CL10B104KC8NNNC"
+			(at 170.18 154.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Datasheet" ""
+			(at 170.18 154.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 170.18 154.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "E_max" "0.9"
+			(at 170.18 154.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "L_max" "0.5"
+			(at 170.18 154.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "A_max" "0.9"
+			(at 170.18 154.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "L1_nom" "0.3"
+			(at 170.18 154.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "D_max" "1.7"
+			(at 170.18 154.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "A_nom" "0.9"
+			(at 170.18 154.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "L1_max" "0.5"
+			(at 170.18 154.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "L1_min" "0.1"
+			(at 170.18 154.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "A_min" "0.9"
+			(at 170.18 154.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "E_min" "0.7"
+			(at 170.18 154.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "D_min" "1.5"
+			(at 170.18 154.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "D_nom" "1.6"
+			(at 170.18 154.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "E_nom" "0.8"
+			(at 170.18 154.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "STANDARD" "IPC 7351B"
+			(at 170.18 154.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "L_min" "0.1"
+			(at 170.18 154.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "L_nom" "0.3"
+			(at 170.18 154.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "MANUFACTURER" "Samsung Electro-Mechanics"
+			(at 170.18 154.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(pin "2"
+			(uuid "6d6626d9-0843-488b-aad2-e9b0024bf09f")
+		)
+		(pin "1"
+			(uuid "73ce3e5f-b71e-42ac-92c3-dc991adcaebf")
+		)
+		(instances
+			(project "DashMotor48V"
+				(path "/71f0fcc1-c7ad-470c-8d48-d038c53969d3"
+					(reference "C57")
 					(unit 1)
 				)
 			)
