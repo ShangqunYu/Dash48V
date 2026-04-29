@@ -13447,12 +13447,6 @@
 		(uuid "b9aa8456-3c0b-49c9-8e2e-f684706c6db4")
 	)
 	(junction
-		(at 295.91 346.71)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "b9c8ca96-3944-4977-b2d0-3f70f4602f12")
-	)
-	(junction
 		(at 270.51 317.5)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -14348,16 +14342,6 @@
 	)
 	(wire
 		(pts
-			(xy 295.91 341.63) (xy 295.91 346.71)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "262d358e-ddae-4661-a094-e650178a56fc")
-	)
-	(wire
-		(pts
 			(xy 392.43 36.83) (xy 400.05 36.83)
 		)
 		(stroke
@@ -14768,7 +14752,7 @@
 	)
 	(wire
 		(pts
-			(xy 295.91 346.71) (xy 295.91 347.98)
+			(xy 295.91 341.63) (xy 295.91 347.98)
 		)
 		(stroke
 			(width 0)
@@ -20132,7 +20116,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm"
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
 			(at 158.75 60.96 0)
 			(hide yes)
 			(show_name no)
@@ -21064,7 +21048,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm"
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
 			(at 85.09 261.62 0)
 			(hide yes)
 			(show_name no)
@@ -26448,7 +26432,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm"
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
 			(at 167.64 58.42 0)
 			(hide yes)
 			(show_name no)
@@ -32879,7 +32863,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm"
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
 			(at 270.51 313.69 0)
 			(hide yes)
 			(show_name no)
@@ -36385,85 +36369,6 @@
 			(project "DashMotor48V"
 				(path "/71f0fcc1-c7ad-470c-8d48-d038c53969d3"
 					(reference "U2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 295.91 346.71 270)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "ee509a34-b972-478c-99b9-ed46d07a142d")
-		(property "Reference" "TP_GND2"
-			(at 300.99 345.4399 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "GND TestPoint"
-			(at 300.99 347.9799 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm"
-			(at 295.91 351.79 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 295.91 351.79 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "test point"
-			(at 295.91 346.71 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "e17acf55-f575-4881-9c8a-5dc0b1a64cf9")
-		)
-		(instances
-			(project "DashMotor48V"
-				(path "/71f0fcc1-c7ad-470c-8d48-d038c53969d3"
-					(reference "TP_GND2")
 					(unit 1)
 				)
 			)
