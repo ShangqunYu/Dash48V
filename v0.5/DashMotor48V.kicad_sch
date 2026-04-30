@@ -13009,12 +13009,6 @@
 		(uuid "14102910-0252-4b93-845e-b89e9356524c")
 	)
 	(junction
-		(at 151.13 299.72)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "18514668-531a-4aeb-8119-8f773e0edfd1")
-	)
-	(junction
 		(at 156.21 152.4)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -14532,7 +14526,7 @@
 	)
 	(wire
 		(pts
-			(xy 146.05 299.72) (xy 151.13 299.72)
+			(xy 146.05 299.72) (xy 157.48 299.72)
 		)
 		(stroke
 			(width 0)
@@ -15899,16 +15893,6 @@
 			(type default)
 		)
 		(uuid "8b17c5cd-ed85-479c-abc8-86af54cf68d6")
-	)
-	(wire
-		(pts
-			(xy 151.13 299.72) (xy 157.48 299.72)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8bb00b15-6162-4dba-8131-c902b19b92cb")
 	)
 	(wire
 		(pts
@@ -21127,7 +21111,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm"
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
 			(at 254 130.81 0)
 			(hide yes)
 			(show_name no)
@@ -28521,85 +28505,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 151.13 299.72 180)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "8a704abf-76d5-431e-923a-7a1e359fe802")
-		(property "Reference" "TP1"
-			(at 153.67 301.7519 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "+12V TestPoint"
-			(at 153.67 304.2919 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm"
-			(at 146.05 299.72 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 146.05 299.72 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "test point"
-			(at 151.13 299.72 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "628e9692-37a3-4c22-980d-a98c2efbb830")
-		)
-		(instances
-			(project "DashMotor48V"
-				(path "/71f0fcc1-c7ad-470c-8d48-d038c53969d3"
-					(reference "TP1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 237.49 271.78 0)
 		(unit 1)
@@ -32150,7 +32055,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm"
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
 			(at 200.66 125.73 0)
 			(hide yes)
 			(show_name no)
@@ -34350,7 +34255,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm"
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
 			(at 254 140.97 0)
 			(hide yes)
 			(show_name no)
@@ -36490,7 +36395,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm"
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
 			(at 379.73 313.69 0)
 			(hide yes)
 			(show_name no)
@@ -36569,7 +36474,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm"
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
 			(at 254 135.89 0)
 			(hide yes)
 			(show_name no)
