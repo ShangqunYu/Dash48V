@@ -13237,12 +13237,6 @@
 		(uuid "6c1bc942-bad3-41a1-b628-c461bbc7b28f")
 	)
 	(junction
-		(at 77.47 266.7)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "6cd64fa3-afda-40c3-a54d-6a7b260f1a3d")
-	)
-	(junction
 		(at 156.21 160.02)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -13321,12 +13315,6 @@
 		(uuid "89436aa3-e53d-4b0e-a64b-a98e1b7267ab")
 	)
 	(junction
-		(at 134.62 264.16)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "8beb817c-fe40-4848-9e8e-589cdb11d2d8")
-	)
-	(junction
 		(at 468.63 44.45)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -13399,7 +13387,7 @@
 		(uuid "aac934a8-f2ab-4f0a-a557-9362c090f922")
 	)
 	(junction
-		(at 438.15 173.99)
+		(at 458.47 186.69)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ab9b469a-1d04-4798-8dc0-3c96d94e4cbf")
@@ -13501,7 +13489,7 @@
 		(uuid "d5b94171-76a3-4f62-9f3f-462d6a95ec5d")
 	)
 	(junction
-		(at 438.15 152.4)
+		(at 458.47 165.1)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d5dc779c-bc4e-402d-833c-564a6a3acf19")
@@ -13571,12 +13559,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f549b8e3-ec8e-4306-a2d2-4fa952208a80")
-	)
-	(junction
-		(at 77.47 259.08)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "f60e0d74-7b8f-4fa8-918b-a689e2a9d471")
 	)
 	(junction
 		(at 438.15 44.45)
@@ -13756,7 +13738,7 @@
 	)
 	(wire
 		(pts
-			(xy 77.47 259.08) (xy 85.09 259.08)
+			(xy 71.12 259.08) (xy 85.09 259.08)
 		)
 		(stroke
 			(width 0)
@@ -13846,7 +13828,7 @@
 	)
 	(wire
 		(pts
-			(xy 452.12 158.75) (xy 452.12 152.4)
+			(xy 472.44 171.45) (xy 472.44 165.1)
 		)
 		(stroke
 			(width 0)
@@ -14206,7 +14188,7 @@
 	)
 	(wire
 		(pts
-			(xy 452.12 173.99) (xy 438.15 173.99)
+			(xy 472.44 186.69) (xy 458.47 186.69)
 		)
 		(stroke
 			(width 0)
@@ -14896,7 +14878,7 @@
 	)
 	(wire
 		(pts
-			(xy 77.47 266.7) (xy 85.09 266.7)
+			(xy 71.12 266.7) (xy 85.09 266.7)
 		)
 		(stroke
 			(width 0)
@@ -14976,7 +14958,7 @@
 	)
 	(wire
 		(pts
-			(xy 438.15 172.72) (xy 438.15 173.99)
+			(xy 458.47 185.42) (xy 458.47 186.69)
 		)
 		(stroke
 			(width 0)
@@ -14996,7 +14978,7 @@
 	)
 	(wire
 		(pts
-			(xy 425.45 152.4) (xy 438.15 152.4)
+			(xy 445.77 165.1) (xy 458.47 165.1)
 		)
 		(stroke
 			(width 0)
@@ -15876,7 +15858,7 @@
 	)
 	(wire
 		(pts
-			(xy 438.15 152.4) (xy 438.15 148.59)
+			(xy 458.47 165.1) (xy 458.47 161.29)
 		)
 		(stroke
 			(width 0)
@@ -16076,7 +16058,7 @@
 	)
 	(wire
 		(pts
-			(xy 125.73 264.16) (xy 134.62 264.16)
+			(xy 125.73 264.16) (xy 139.7 264.16)
 		)
 		(stroke
 			(width 0)
@@ -16386,7 +16368,7 @@
 	)
 	(wire
 		(pts
-			(xy 452.12 152.4) (xy 438.15 152.4)
+			(xy 472.44 165.1) (xy 458.47 165.1)
 		)
 		(stroke
 			(width 0)
@@ -16436,7 +16418,7 @@
 	)
 	(wire
 		(pts
-			(xy 438.15 146.05) (xy 441.96 146.05)
+			(xy 458.47 158.75) (xy 462.28 158.75)
 		)
 		(stroke
 			(width 0)
@@ -16466,7 +16448,7 @@
 	)
 	(wire
 		(pts
-			(xy 438.15 173.99) (xy 438.15 175.26)
+			(xy 458.47 186.69) (xy 458.47 187.96)
 		)
 		(stroke
 			(width 0)
@@ -16513,26 +16495,6 @@
 			(type default)
 		)
 		(uuid "b32ed3ce-10c7-4e6b-b735-8ed45aab1dd2")
-	)
-	(wire
-		(pts
-			(xy 71.12 266.7) (xy 77.47 266.7)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b369f9d2-3475-4efb-ba3a-75d756e9f616")
-	)
-	(wire
-		(pts
-			(xy 134.62 264.16) (xy 139.7 264.16)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b527bae5-2fd0-4531-9c7c-06fa2df69b6b")
 	)
 	(wire
 		(pts
@@ -16703,16 +16665,6 @@
 			(type default)
 		)
 		(uuid "c53bb16b-7884-459c-a0ab-55cc20a458a4")
-	)
-	(wire
-		(pts
-			(xy 71.12 259.08) (xy 77.47 259.08)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c650c9f5-c7d2-4191-bba9-bcb85cd4bdf9")
 	)
 	(wire
 		(pts
@@ -17246,7 +17198,7 @@
 	)
 	(wire
 		(pts
-			(xy 452.12 166.37) (xy 452.12 173.99)
+			(xy 472.44 179.07) (xy 472.44 186.69)
 		)
 		(stroke
 			(width 0)
@@ -17306,7 +17258,7 @@
 	)
 	(wire
 		(pts
-			(xy 438.15 148.59) (xy 441.96 148.59)
+			(xy 458.47 161.29) (xy 462.28 161.29)
 		)
 		(stroke
 			(width 0)
@@ -17366,7 +17318,7 @@
 	)
 	(wire
 		(pts
-			(xy 438.15 143.51) (xy 438.15 146.05)
+			(xy 458.47 156.21) (xy 458.47 158.75)
 		)
 		(stroke
 			(width 0)
@@ -18345,7 +18297,7 @@
 		(uuid "e1611ddf-e0f7-41f7-8e93-3f52c69841b3")
 	)
 	(label "VMOT_TEMP"
-		(at 425.45 152.4 0)
+		(at 445.77 165.1 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -18494,7 +18446,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-		(at 438.15 143.51 0)
+		(at 458.47 156.21 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -18505,7 +18457,7 @@
 		(fields_autoplaced yes)
 		(uuid "00cfa36a-84a6-4fa0-bb14-9d291fce1d65")
 		(property "Reference" "#PWR075"
-			(at 438.15 147.32 0)
+			(at 458.47 160.02 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18516,7 +18468,7 @@
 			)
 		)
 		(property "Value" "+3.3V"
-			(at 438.15 138.43 0)
+			(at 458.47 151.13 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -18526,7 +18478,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 438.15 143.51 0)
+			(at 458.47 156.21 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18537,7 +18489,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 438.15 143.51 0)
+			(at 458.47 156.21 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18548,7 +18500,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 438.15 143.51 0)
+			(at 458.47 156.21 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18572,7 +18524,7 @@
 	)
 	(symbol
 		(lib_id "dash:CL10B104KC8NNNC")
-		(at 452.12 161.29 270)
+		(at 472.44 173.99 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -18582,7 +18534,7 @@
 		(dnp no)
 		(uuid "0174267f-aecc-4d15-80c4-fbaed0dbec8e")
 		(property "Reference" "C56"
-			(at 456.692 157.988 0)
+			(at 477.012 170.688 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -18592,7 +18544,7 @@
 			)
 		)
 		(property "Value" "100nF 100V"
-			(at 454.66 162.052 0)
+			(at 474.98 174.752 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -18602,7 +18554,7 @@
 			)
 		)
 		(property "Footprint" "dash:CL10B104KC8NNNC"
-			(at 452.12 161.29 0)
+			(at 472.44 173.99 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18614,7 +18566,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 452.12 161.29 0)
+			(at 472.44 173.99 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18625,7 +18577,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 452.12 161.29 0)
+			(at 472.44 173.99 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18636,7 +18588,7 @@
 			)
 		)
 		(property "E_max" "0.9"
-			(at 452.12 161.29 0)
+			(at 472.44 173.99 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18648,7 +18600,7 @@
 			)
 		)
 		(property "L_max" "0.5"
-			(at 452.12 161.29 0)
+			(at 472.44 173.99 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18660,7 +18612,7 @@
 			)
 		)
 		(property "A_max" "0.9"
-			(at 452.12 161.29 0)
+			(at 472.44 173.99 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18672,7 +18624,7 @@
 			)
 		)
 		(property "L1_nom" "0.3"
-			(at 452.12 161.29 0)
+			(at 472.44 173.99 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18684,7 +18636,7 @@
 			)
 		)
 		(property "D_max" "1.7"
-			(at 452.12 161.29 0)
+			(at 472.44 173.99 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18696,7 +18648,7 @@
 			)
 		)
 		(property "A_nom" "0.9"
-			(at 452.12 161.29 0)
+			(at 472.44 173.99 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18708,7 +18660,7 @@
 			)
 		)
 		(property "L1_max" "0.5"
-			(at 452.12 161.29 0)
+			(at 472.44 173.99 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18720,7 +18672,7 @@
 			)
 		)
 		(property "L1_min" "0.1"
-			(at 452.12 161.29 0)
+			(at 472.44 173.99 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18732,7 +18684,7 @@
 			)
 		)
 		(property "A_min" "0.9"
-			(at 452.12 161.29 0)
+			(at 472.44 173.99 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18744,7 +18696,7 @@
 			)
 		)
 		(property "E_min" "0.7"
-			(at 452.12 161.29 0)
+			(at 472.44 173.99 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18756,7 +18708,7 @@
 			)
 		)
 		(property "D_min" "1.5"
-			(at 452.12 161.29 0)
+			(at 472.44 173.99 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18768,7 +18720,7 @@
 			)
 		)
 		(property "D_nom" "1.6"
-			(at 452.12 161.29 0)
+			(at 472.44 173.99 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18780,7 +18732,7 @@
 			)
 		)
 		(property "E_nom" "0.8"
-			(at 452.12 161.29 0)
+			(at 472.44 173.99 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18792,7 +18744,7 @@
 			)
 		)
 		(property "STANDARD" "IPC 7351B"
-			(at 452.12 161.29 0)
+			(at 472.44 173.99 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18804,7 +18756,7 @@
 			)
 		)
 		(property "L_min" "0.1"
-			(at 452.12 161.29 0)
+			(at 472.44 173.99 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18816,7 +18768,7 @@
 			)
 		)
 		(property "L_nom" "0.3"
-			(at 452.12 161.29 0)
+			(at 472.44 173.99 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18828,7 +18780,7 @@
 			)
 		)
 		(property "MANUFACTURER" "Samsung Electro-Mechanics"
-			(at 452.12 161.29 0)
+			(at 472.44 173.99 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19384,7 +19336,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x02_Pin")
-		(at 447.04 148.59 180)
+		(at 467.36 161.29 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -19394,7 +19346,7 @@
 		(dnp no)
 		(uuid "0767fdda-bdb9-48be-a106-48ba5b51f4bd")
 		(property "Reference" "J3"
-			(at 452.882 142.24 0)
+			(at 473.202 154.94 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -19404,7 +19356,7 @@
 			)
 		)
 		(property "Value" "Conn_01x02_Pin"
-			(at 452.882 139.954 0)
+			(at 473.202 152.654 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -19414,7 +19366,7 @@
 			)
 		)
 		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
-			(at 447.04 148.59 0)
+			(at 467.36 161.29 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19425,7 +19377,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 447.04 148.59 0)
+			(at 467.36 161.29 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19436,7 +19388,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated"
-			(at 447.04 148.59 0)
+			(at 467.36 161.29 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23474,85 +23426,6 @@
 			(project "DashMotor48V"
 				(path "/71f0fcc1-c7ad-470c-8d48-d038c53969d3"
 					(reference "R10")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 134.62 264.16 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "5a86fad4-edae-4d2c-9d4c-6cc4bda206b0")
-		(property "Reference" "TP14"
-			(at 134.62 265.938 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "TP_SCK"
-			(at 137.16 262.1279 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm"
-			(at 139.7 264.16 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 139.7 264.16 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "test point"
-			(at 134.62 264.16 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "98bb889f-c0d8-4d9c-aeb4-0fe87bb0cfe4")
-		)
-		(instances
-			(project "DashMotor48V"
-				(path "/71f0fcc1-c7ad-470c-8d48-d038c53969d3"
-					(reference "TP14")
 					(unit 1)
 				)
 			)
@@ -30008,85 +29881,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 77.47 266.7 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "9f020031-369a-4da1-841e-8a54f6f00ca1")
-		(property "Reference" "TP13"
-			(at 77.47 268.478 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "TP_MISO"
-			(at 80.01 264.6679 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm"
-			(at 82.55 266.7 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 82.55 266.7 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "test point"
-			(at 77.47 266.7 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "e189ac21-c35a-4083-9f33-598e8c24fc22")
-		)
-		(instances
-			(project "DashMotor48V"
-				(path "/71f0fcc1-c7ad-470c-8d48-d038c53969d3"
-					(reference "TP13")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:+48V")
 		(at 435.61 55.88 0)
 		(unit 1)
@@ -32420,7 +32214,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 438.15 175.26 0)
+		(at 458.47 187.96 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -32431,7 +32225,7 @@
 		(fields_autoplaced yes)
 		(uuid "bd2d9fc3-b544-45e4-91dc-e626eec99ef0")
 		(property "Reference" "#PWR076"
-			(at 438.15 181.61 0)
+			(at 458.47 194.31 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -32442,7 +32236,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 438.15 180.34 0)
+			(at 458.47 193.04 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -32452,7 +32246,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 438.15 175.26 0)
+			(at 458.47 187.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -32463,7 +32257,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 438.15 175.26 0)
+			(at 458.47 187.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -32474,7 +32268,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 438.15 175.26 0)
+			(at 458.47 187.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -33194,7 +32988,7 @@
 	)
 	(symbol
 		(lib_id "dash:RT0402DRE0710KL")
-		(at 438.15 162.56 90)
+		(at 458.47 175.26 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -33204,7 +32998,7 @@
 		(dnp no)
 		(uuid "ca1f7b61-f013-458e-9119-7e9e2f0dbab6")
 		(property "Reference" "R5"
-			(at 441.96 161.2899 90)
+			(at 462.28 173.9899 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -33215,7 +33009,7 @@
 			)
 		)
 		(property "Value" "RT0402DRE0710KL"
-			(at 441.96 163.8299 90)
+			(at 462.28 176.5299 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -33227,7 +33021,7 @@
 			)
 		)
 		(property "Footprint" "dash:RT0402DRE0710KL"
-			(at 438.15 162.56 0)
+			(at 458.47 175.26 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -33239,7 +33033,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.lcsc.com/product-detail/C326912.html?s_z=n_RT0402DRE0710KL"
-			(at 438.15 162.56 0)
+			(at 458.47 175.26 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -33250,7 +33044,7 @@
 			)
 		)
 		(property "Description" "10k"
-			(at 443.484 163.576 90)
+			(at 463.804 176.276 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -35510,85 +35304,6 @@
 			(project "DashMotor48V"
 				(path "/71f0fcc1-c7ad-470c-8d48-d038c53969d3"
 					(reference "Q5")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 77.47 259.08 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "e7398201-3020-4252-a787-d12a964254e1")
-		(property "Reference" "TP11"
-			(at 77.47 260.858 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "TP_MOSI"
-			(at 80.01 257.0479 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm"
-			(at 82.55 259.08 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 82.55 259.08 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "test point"
-			(at 77.47 259.08 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "9a6eb996-4369-42a8-959e-f9ec2dc0d0b3")
-		)
-		(instances
-			(project "DashMotor48V"
-				(path "/71f0fcc1-c7ad-470c-8d48-d038c53969d3"
-					(reference "TP11")
 					(unit 1)
 				)
 			)
